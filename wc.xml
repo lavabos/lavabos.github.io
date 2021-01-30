@@ -1,0 +1,3627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+    <header module="QueryLlistaEQ" operation="getLlistaEQ" session=""/>
+    <body idioma="CA">
+        <resultat>
+            <info>
+                <num_resultats>155</num_resultats>
+                <primer>1</primer>
+                <ultim>155</ultim>
+            </info>
+            <equipaments>
+                <equipament>
+                    <id>99400596905</id>
+                    <nom>Hort Urbà Masia Can Mestres</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="058634">Camí Can Clos</carrer>
+                        <numero davant="0" enter="1">1*9</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="13">la Marina de Port</barri>
+                        <codi_postal>08038</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28590952" y="79243454"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.359684477777776" lon="2.145138777777778"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400344791</id>
+                    <nom>Jardins d'Aclimatació de Montjuïc</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="116402">Av Estadi</carrer>
+                        <numero davant="0" enter="42">42*48</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="11">el Poble-sec</barri>
+                        <codi_postal>08038</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29219150" y="79954290"/>
+                            <dibuix x="29179421" y="79932438"/>
+                            <googleMaps lat="41.36614225555556" lon="2.1525654722222223"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526812</id>
+                    <nom>Jardins de Can Sentmenat</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="058601">C Can Caralleu</carrer>
+                        <numero davant="0" enter="6">6*14</numero>
+                        <districte codi="05">Sarrià-Sant Gervasi</districte>
+                        <barri codi="23">Sarrià</barri>
+                        <codi_postal>08017</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="26125638" y="84031960"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40259000277778" lon="2.115083805555556"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526783</id>
+                    <nom>Jardins de Joan Brossa</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="218504">Ctra Montjuïc</carrer>
+                        <numero davant="0" enter="28">28</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="11">el Poble-sec</barri>
+                        <codi_postal>08038</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30566200" y="80174676"/>
+                            <dibuix x="30529820" y="80127051"/>
+                            <googleMaps lat="41.36824458888889" lon="2.1686449444444444"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400627931</id>
+                    <nom>Jardins de Sant Pau del Camp</nom>
+                    <seccio>WC Públic a la cruïlla amb el c. de l'Abat Safont</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="000500">C Abat Safont</carrer>
+                        <numero davant="1" enter="12">12</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30622624" y="81009275"/>
+                            <dibuix x="30662960" y="80977640"/>
+                            <googleMaps lat="41.375766455555556" lon="2.169224"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400659984</id>
+                    <nom>Jardins de Sant Pau del Camp</nom>
+                    <seccio>WC Públic a la cruïlla Hort Sant Pau amb el c.Tàpies</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="158800">C Hort de Sant Pau</carrer>
+                        <numero davant="1" enter="2">2</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30719397" y="81113216"/>
+                            <dibuix x="30748090" y="81084620"/>
+                            <googleMaps lat="41.37671096388889" lon="2.17036925"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526821</id>
+                    <nom>Jardins del Baix Guinardó</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="197302">C Marina</carrer>
+                        <numero davant="0" enter="372">372*382</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="33">el Baix Guinardó</barri>
+                        <codi_postal>08025</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30585950" y="84730371"/>
+                            <dibuix x="30610005" y="84782319"/>
+                            <googleMaps lat="41.40927803333333" lon="2.16835875"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400344311</id>
+                    <nom>Jardins del Mirador de l'Alcalde</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="218504">Ctra Montjuïc</carrer>
+                        <numero davant="0" enter="41">41*51</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="11">el Poble-sec</barri>
+                        <codi_postal>08038</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30551774" y="80073740"/>
+                            <dibuix x="3061082" y="8002910"/>
+                            <googleMaps lat="41.36733424166667" lon="2.1684840277777777"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400344310</id>
+                    <nom>Jardins Laribal</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="316809">Pg Santa Madrona</carrer>
+                        <numero davant="0" enter="2">2</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="11">el Poble-sec</barri>
+                        <codi_postal>08038</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29714617" y="80166047"/>
+                            <dibuix x="0" y="0"/>
+                            <googleMaps lat="41.368092925" lon="2.1584645"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400344303</id>
+                    <nom>Parc de Can Rigal</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="700811">Av Albert Bastardas</carrer>
+                        <numero davant="0" enter="23">23</numero>
+                        <districte codi="04">Les Corts</districte>
+                        <barri codi="20">la Maternitat i Sant Ramon</barri>
+                        <codi_postal>08028</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="25483518" y="81452389"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37929769722222" lon="2.1077202500000003"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526827</id>
+                    <nom>Parc de Carles I</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="062609">Av Icària</carrer>
+                        <numero davant="0" enter="121">121</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="67">la Vila Olímpica del Poblenou</barri>
+                        <codi_postal>08005</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32662021" y="82455815"/>
+                            <dibuix x="0" y="0"/>
+                            <googleMaps lat="41.388968419444446" lon="2.193448972222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400344284</id>
+                    <nom>Parc de Joan Miró</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="018505">C Aragó</carrer>
+                        <numero davant="0" enter="2">2</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="09">la Nova Esquerra de l'Eixample</barri>
+                        <codi_postal>08015</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28793958" y="81364706"/>
+                            <dibuix x="28802497" y="81201404"/>
+                            <googleMaps lat="41.378807888888886" lon="2.1473163611111112"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400627908</id>
+                    <nom>Parc de la Barceloneta</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="197903">Pg Marítim Barceloneta</carrer>
+                        <numero davant="0" enter="15">15*21</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="03">la Barceloneta</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32555862" y="81785701"/>
+                            <dibuix x="0" y="0"/>
+                            <googleMaps lat="41.38292397222222" lon="2.192253972222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526761</id>
+                    <nom>Parc de la Ciutadella</nom>
+                    <seccio>WC Públic, dins de la guingueta-bar de la Pl. de les Cascades</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="201400">Pg Picasso</carrer>
+                        <numero davant="0" enter="21">21</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="04">Sant Pere, Santa Caterina i la Ribera</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31983279" y="82166522"/>
+                            <dibuix x="3206659" y="8246833"/>
+                            <googleMaps lat="41.38630569722222" lon="2.185363861111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526771</id>
+                    <nom>Parc de la Ciutadella</nom>
+                    <seccio>WC Públic, dins la Ludoteca del Parc</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="701223">Pas Institut Escola</carrer>
+                        <numero davant="0" enter="1">1</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="04">Sant Pere, Santa Caterina i la Ribera</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32129915" y="82273221"/>
+                            <dibuix x="3213294" y="8227403"/>
+                            <googleMaps lat="41.38727909722222" lon="2.187105583333333"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400344781</id>
+                    <nom>Parc de la Creueta del Coll</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="230000">Pg Mare de Déu del Coll</carrer>
+                        <numero davant="0" enter="77">77</numero>
+                        <districte codi="06">Gràcia</districte>
+                        <barri codi="29">el Coll</barri>
+                        <codi_postal>08023</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28914694" y="85795143"/>
+                            <dibuix x="28985433" y="85984463"/>
+                            <googleMaps lat="41.41872187222222" lon="2.1482396666666665"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526823</id>
+                    <nom>Parc de la Trinitat</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="314100">Pg Santa Coloma</carrer>
+                        <numero davant="0" enter="60">60</numero>
+                        <districte codi="09">Sant Andreu</districte>
+                        <barri codi="60">Sant Andreu</barri>
+                        <codi_postal>08030</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32879358" y="88875205"/>
+                            <dibuix x="32907109" y="89145239"/>
+                            <googleMaps lat="41.44680415833333" lon="2.1953355555555554"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526816</id>
+                    <nom>Parc de les Rieres d'Horta</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="700651">Av Estatut de Catalunya</carrer>
+                        <numero davant="0" enter="21">21</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="42">la Clota</barri>
+                        <codi_postal>08035</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29429627" y="87158778"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.431049002777776" lon="2.1542416666666666"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <telefon>
+                        <tipus codi="00020001">Tel.</tipus>
+                        <numero_telf>010</numero_telf>
+                        <observacions/>
+                    </telefon>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400344281</id>
+                    <nom>Parc de l'Estació del Nord</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="225500">C Nàpols</carrer>
+                        <numero davant="0" enter="70">70</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="05">el Fort Pienc</barri>
+                        <codi_postal>08018</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31871892" y="82981971"/>
+                            <dibuix x="0" y="0"/>
+                            <googleMaps lat="41.39364079166667" lon="2.1839399999999998"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526774</id>
+                    <nom>Parc de Montjuïc</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="217002">Av Montanyans</carrer>
+                        <numero davant="0" enter="20">20</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="11">el Poble-sec</barri>
+                        <codi_postal>08038</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29097535" y="80133360"/>
+                            <dibuix x="2915126" y="8018324"/>
+                            <googleMaps lat="41.367744375" lon="2.1510905555555553"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526819</id>
+                    <nom>Parc del Laberint d'Horta</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="072158">Pg Castanyers</carrer>
+                        <numero davant="0" enter="1">1</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="43">Horta</barri>
+                        <codi_postal>08035</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28914269" y="87982670"/>
+                            <dibuix x="2888205" y="8800802"/>
+                            <googleMaps lat="41.438423975" lon="2.147977222222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526796</id>
+                    <nom>Parc del Mirador del Migdia</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="700690">Pg Migdia</carrer>
+                        <numero davant="0" enter="156">156*174</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="11">el Poble-sec</barri>
+                        <codi_postal>08038</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29233400" y="79241848"/>
+                            <dibuix x="0" y="0"/>
+                            <googleMaps lat="41.35972676111111" lon="2.152819"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400596897</id>
+                    <nom>Parc del Poblenou</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="700654">Av Litoral</carrer>
+                        <numero davant="0" enter="59">59*71</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="68">el Poblenou</barri>
+                        <codi_postal>08005</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="33903962" y="83303226"/>
+                            <dibuix x="3362122" y="8322809"/>
+                            <googleMaps lat="41.39670392777778" lon="2.2082098611111114"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <telefon>
+                        <tipus codi="00020001">Tel.</tipus>
+                        <numero_telf>010</numero_telf>
+                        <observacions/>
+                    </telefon>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526822</id>
+                    <nom>Parc del Turó de la Peira</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="119003">Pg Fabra i Puig</carrer>
+                        <numero davant="0" enter="396">396</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="46">el Turó de la Peira</barri>
+                        <codi_postal>08031</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30393091" y="87348122"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43283847222222" lon="2.1657500555555553"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400526815</id>
+                    <nom>Park Güell</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="234908">C Olot</carrer>
+                        <numero davant="0" enter="7">7</numero>
+                        <districte codi="06">Gràcia</districte>
+                        <barri codi="30">la Salut</barri>
+                        <codi_postal>08024</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29315948" y="85209082"/>
+                            <dibuix x="0" y="0"/>
+                            <googleMaps lat="41.41347886388889" lon="2.153109222222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400344770</id>
+                    <nom>Turó Park - Parc del Poeta Eduard Marquina</nom>
+                    <seccio>WC Públic</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="143507">Av Pau Casals</carrer>
+                        <numero davant="0" enter="19">19*LX</numero>
+                        <districte codi="05">Sarrià-Sant Gervasi</districte>
+                        <barri codi="26">Sant Gervasi - Galvany</barri>
+                        <codi_postal>08021</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28357616" y="83064072"/>
+                            <dibuix x="28153577" y="83099710"/>
+                            <googleMaps lat="41.39407470277778" lon="2.141897611111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400627980</id>
+                    <nom>WC Públic * Avinguda de l­a Catedral</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="074801">Av Catedral</carrer>
+                        <numero davant="1" enter="7">7</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="02">el Barri Gòtic</barri>
+                        <codi_postal>08002</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31175791" y="82015700"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.384878569444446" lon="2.1757240277777776"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400208739</id>
+                    <nom>WC Públic *Pla de Palau</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="240707">Pla Palau</carrer>
+                        <numero davant="1" enter="2">2</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="04">Sant Pere, Santa Caterina i la Ribera</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31745633" y="81794495"/>
+                            <dibuix x="31786010" y="81793475"/>
+                            <googleMaps lat="41.38293481111111" lon="2.182563722222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <telefon>
+                        <tipus codi="00020042">No tenen telèfon</tipus>
+                        <numero_telf/>
+                        <observacions/>
+                    </telefon>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400659982</id>
+                    <nom>WC Públic * Plaça Charles Darwin</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="701561">Pl Charles Darwin</carrer>
+                        <numero davant="0" enter="1">1</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="03">la Barceloneta</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32791725" y="81949791"/>
+                            <dibuix x="32782930" y="82038250"/>
+                            <googleMaps lat="41.38442164166667" lon="2.1950563888888888"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400659983</id>
+                    <nom>WC Públic *Plaça de la Gardunya</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="140757">Pl Gardunya</carrer>
+                        <numero davant="0" enter="1">1</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30742106" y="81666468"/>
+                            <dibuix x="30793090" y="81625240"/>
+                            <googleMaps lat="41.381695900000004" lon="2.1705775277777777"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400392750</id>
+                    <nom>WC Públic *Arc del Teatre / Lancaster</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="021306">C Arc del Teatre</carrer>
+                        <numero davant="1" enter="6">6</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31085547" y="81242194"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37790408888889" lon="2.1747328055555553"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <telefon>
+                        <tipus codi="00020042">No tenen telèfon</tipus>
+                        <numero_telf/>
+                        <observacions/>
+                    </telefon>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661626</id>
+                    <nom>WC Públic *Biblioteca Barceloneta - La Fraternitat</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="087406">C Comte de Santa Clara</carrer>
+                        <numero davant="0" enter="8">8*10</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="03">la Barceloneta</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32268556" y="81375027"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37920098611111" lon="2.188864111111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661627</id>
+                    <nom>WC Públic *Biblioteca Bon Pastor</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="116209">C Estadella</carrer>
+                        <numero davant="0" enter="64">64</numero>
+                        <districte codi="09">Sant Andreu</districte>
+                        <barri codi="59">el Bon Pastor</barri>
+                        <codi_postal>08030</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="33646344" y="87575817"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.435164772222215" lon="2.204659527777778"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661628</id>
+                    <nom>WC Públic *Biblioteca Camp de l'Arpa - Caterina Albert</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="161407">C Indústria</carrer>
+                        <numero davant="0" enter="295">295</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="64">el Camp de l'Arpa del Clot</barri>
+                        <codi_postal>08041</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31756320" y="85439685"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.41576687222222" lon="2.1822804166666665"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661629</id>
+                    <nom>WC Públic *Biblioteca Canyelles</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="153158">Rda Guineueta Vella</carrer>
+                        <numero davant="0" enter="34">34</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="49">Canyelles</barri>
+                        <codi_postal>08042</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30285515" y="88563340"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.443774122222216" lon="2.1643223333333332"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661630</id>
+                    <nom>WC Públic *Biblioteca Clarà</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="101405">C Doctor Carulla</carrer>
+                        <numero davant="0" enter="22">22*24</numero>
+                        <districte codi="05">Sarrià-Sant Gervasi</districte>
+                        <barri codi="24">les Tres Torres</barri>
+                        <codi_postal>08017</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="27323959" y="83722273"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.39991005277778" lon="2.1294554444444445"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661632</id>
+                    <nom>WC Públic *Biblioteca Collserola-Josep Miracle</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="280803">C Reis Catòlics</carrer>
+                        <numero davant="0" enter="16">16*34</numero>
+                        <districte codi="05">Sarrià-Sant Gervasi</districte>
+                        <barri codi="22">Vallvidrera, el Tibidabo i les Planes</barri>
+                        <codi_postal>08017</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="25090819" y="85460425"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.415359680555554" lon="2.102528361111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661635</id>
+                    <nom>WC Públic *Biblioteca de l'Eixample - Agustí Centelles</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="349706">C Comte d'Urgell</carrer>
+                        <numero davant="0" enter="145">145</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="09">la Nova Esquerra de l'Eixample</barri>
+                        <codi_postal>08036</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29196976" y="82255292"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38686467777778" lon="2.1520314444444444"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661633</id>
+                    <nom>WC Públic *Biblioteca El Carmel - Juan Marsé</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="224405">C Murtra</carrer>
+                        <numero davant="0" enter="135">135*145</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="37">el Carmel</barri>
+                        <codi_postal>08032</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29490304" y="86042169"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.420997480555556" lon="2.155098111111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661634</id>
+                    <nom>WC Públic *Biblioteca El Clot - Josep Benet</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="146902">Pl Glòries Catalanes</carrer>
+                        <numero davant="0" enter="37">37*38</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="66">el Parc i la Llacuna del Poblenou</barri>
+                        <codi_postal>08038</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32223279" y="83970111"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40257039722222" lon="2.1880321388888886"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661636</id>
+                    <nom>WC Públic *Biblioteca Fort Pienc</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="701420">Pl Fort Pienc</carrer>
+                        <numero davant="0" enter="4">4*5</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="05">el Fort Pienc</barri>
+                        <codi_postal>08013</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31749100" y="83195751"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.39555582777778" lon="2.182447222222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661637</id>
+                    <nom>WC Públic *Biblioteca Francesc Candel</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="369102">C Amnistia Internacional</carrer>
+                        <numero davant="0" enter="10">10</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="13">la Marina de Port</barri>
+                        <codi_postal>08038</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="27851968" y="79483233"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.361778175000005" lon="2.136276222222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661673</id>
+                    <nom>WC Públic *Biblioteca Francesca Bonnemaison</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="031707">C Sant Pere Més Baix</carrer>
+                        <numero davant="0" enter="7">7</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="04">Sant Pere, Santa Caterina i la Ribera</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31183445" y="82244196"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38693722222222" lon="2.175789611111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661638</id>
+                    <nom>WC Públic *Biblioteca Gòtic - Andreu Nin</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="034308">C Rambla</carrer>
+                        <numero davant="0" enter="30">30*32</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="02">el Barri Gòtic</barri>
+                        <codi_postal>08002</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31195978" y="81302720"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37845868611111" lon="2.1760464444444443"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661639</id>
+                    <nom>WC Públic *Biblioteca Guinardó - Mercè Rodoreda</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="056504">C Camèlies</carrer>
+                        <numero davant="0" enter="76">76*80</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="33">el Baix Guinardó</barri>
+                        <codi_postal>08024</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30337164" y="85291890"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.414313899999996" lon="2.165317722222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661641</id>
+                    <nom>WC Públic *Biblioteca Horta - Can Mariner</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="360505">C Vent</carrer>
+                        <numero davant="0" enter="1">1</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="43">Horta</barri>
+                        <codi_postal>08031</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29972074" y="87159848"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43110614166667" lon="2.16073325"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661642</id>
+                    <nom>WC Públic *Biblioteca Ignasi Iglésias - Can Fabra</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="322007">C Segre</carrer>
+                        <numero davant="0" enter="24">24*32</numero>
+                        <districte codi="09">Sant Andreu</districte>
+                        <barri codi="60">Sant Andreu</barri>
+                        <codi_postal>08030</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32493660" y="87510691"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43448208333333" lon="2.190871138888889"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661644</id>
+                    <nom>WC Públic *Biblioteca Jaume Fuster</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="123408">Pl Lesseps</carrer>
+                        <numero davant="0" enter="20">20*22</numero>
+                        <districte codi="06">Gràcia</districte>
+                        <barri codi="28">Vallcarca i els Penitents</barri>
+                        <codi_postal>08023</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29029244" y="84543677"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40746053611111" lon="2.149757138888889"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661645</id>
+                    <nom>WC Públic *Biblioteca Joan Miró</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="362001">C Vilamarí</carrer>
+                        <numero davant="0" enter="61">61</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="09">la Nova Esquerra de l'Eixample</barri>
+                        <codi_postal>08015</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28953985" y="81364197"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.378817455555556" lon="2.1492299999999998"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661646</id>
+                    <nom>WC Públic *Biblioteca La Sagrera - Marina Clotet</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="205309">C Camp del Ferro</carrer>
+                        <numero davant="0" enter="1">1*3</numero>
+                        <districte codi="09">Sant Andreu</districte>
+                        <barri codi="61">la Sagrera</barri>
+                        <codi_postal>08027</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32726455" y="86553016"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.425876152777775" lon="2.193763888888889"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661649</id>
+                    <nom>WC Públic *Biblioteca Les Corts - Miquel Llongueras</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="343903">Trav Corts</carrer>
+                        <numero davant="0" enter="58">58</numero>
+                        <districte codi="04">Les Corts</districte>
+                        <barri codi="20">la Maternitat i Sant Ramon</barri>
+                        <codi_postal>08028</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="26661332" y="81293582"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37797565555556" lon="2.121823555555556"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661651</id>
+                    <nom>WC Públic *Biblioteca Les Roquetes</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="120807">Via Favència</carrer>
+                        <numero davant="0" enter="288">288*LB</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="50">les Roquetes</barri>
+                        <codi_postal>08042</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31354876" y="88730562"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.445372424999995" lon="2.177103361111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661653</id>
+                    <nom>WC Públic *Biblioteca Montbau - Albert Pérez Baró</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="025500">C Arquitectura</carrer>
+                        <numero davant="0" enter="8">8</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="40">Montbau</barri>
+                        <codi_postal>08035</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28400687" y="86958305"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.429152316666666" lon="2.1419516944444443"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661654</id>
+                    <nom>WC Públic *Biblioteca Montserrat Abelló</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="088001">C Comtes de Bell-lloc</carrer>
+                        <numero davant="0" enter="192">192*200</numero>
+                        <districte codi="04">Les Corts</districte>
+                        <barri codi="19">les Corts</barri>
+                        <codi_postal>08014</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="27793519" y="81917858"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38370072222222" lon="2.135287388888889"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661656</id>
+                    <nom>WC Públic *Biblioteca Nou Barris</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="701639">Pl Major de Nou Barris</carrer>
+                        <numero davant="0" enter="2">2</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="48">la Guineueta</barri>
+                        <codi_postal>080</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30853667" y="87785138"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43681431666666" lon="2.171212111111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661657</id>
+                    <nom>WC Públic *Biblioteca Poblenou - Manuel Arranz</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="174908">C Joncar</carrer>
+                        <numero davant="0" enter="35">35</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="68">el Poblenou</barri>
+                        <codi_postal>08005</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="33600705" y="83824516"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40137406388889" lon="2.2045253333333337"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661658</id>
+                    <nom>WC Públic *Biblioteca Poble-sec - Francesc Boix</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="043400">C Blai</carrer>
+                        <numero davant="0" enter="34">34</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="11">el Poble-sec</barri>
+                        <codi_postal>08004</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30185865" y="80808737"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.373922477777775" lon="2.164024638888889"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661659</id>
+                    <nom>WC Públic *Biblioteca Ramon d'Alòs - Moner</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="266405">Rbla Prim</carrer>
+                        <numero davant="0" enter="87">87*89</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="70">el Besòs i el Maresme</barri>
+                        <codi_postal>08019</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="34197372" y="85477360"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.41630990555555" lon="2.2114829166666667"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661660</id>
+                    <nom>WC Públic *Biblioteca Sagrada Família - Josep M. Ainaud de Lasarte</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="268003">C Provença</carrer>
+                        <numero davant="0" enter="480">480</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="06">la Sagrada Família</barri>
+                        <codi_postal>08025</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31283759" y="84291471"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.405384991666665" lon="2.176756833333333"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661661</id>
+                    <nom>WC Públic *Biblioteca Sant Antoni - Joan Oliver</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="087009">C Comte Borrell</carrer>
+                        <numero davant="0" enter="44">44*46</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="10">Sant Antoni</barri>
+                        <codi_postal>08015</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30085300" y="81194193"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37738542777778" lon="2.1627776944444443"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661662</id>
+                    <nom>WC Públic *Biblioteca Sant Gervasi - Joan Maragall</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="302203">C Sant Gervasi de Cassoles</carrer>
+                        <numero davant="0" enter="85">85</numero>
+                        <districte codi="05">Sarrià-Sant Gervasi</districte>
+                        <barri codi="25">Sant Gervasi - la Bonanova</barri>
+                        <codi_postal>08022</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="27875598" y="84384587"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40592494444444" lon="2.135975"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661663</id>
+                    <nom>WC Públic *Biblioteca Sant Martí de Provençals</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="322608">C Selva de Mar</carrer>
+                        <numero davant="0" enter="215">215</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="72">Sant Martí de Provençals</barri>
+                        <codi_postal>08020</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="33118065" y="85522198"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.41662459444444" lon="2.1985641944444443"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661664</id>
+                    <nom>WC Públic *Biblioteca Sant Pau - Santa Creu</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="067307">C Carme</carrer>
+                        <numero davant="1" enter="47">47</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30606382" y="81645275"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.381493319444445" lon="2.1689569166666667"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661665</id>
+                    <nom>WC Públic *Biblioteca Sofia Barat</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="145003">C Girona</carrer>
+                        <numero davant="0" enter="64">64*68 LI</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="07">la Dreta de Eixample</barri>
+                        <codi_postal>08009</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30833347" y="83106639"/>
+                            <dibuix x="0" y="0"/>
+                            <googleMaps lat="41.394674941666665" lon="2.171504111111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661666</id>
+                    <nom>WC Públic *Biblioteca Trinitat Vella - J. Barbero</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="138700">C Galícia</carrer>
+                        <numero davant="0" enter="16">16</numero>
+                        <districte codi="09">Sant Andreu</districte>
+                        <barri codi="57">la Trinitat Vella</barri>
+                        <codi_postal>08033</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32498752" y="89154060"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.449283775" lon="2.190748361111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661667</id>
+                    <nom>WC Públic *Biblioteca Vallcarca i els Penitents - Maria Antonieta Cot i
+                        Miralpeix</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="352507">Pg Vall d'Hebron</carrer>
+                        <numero davant="0" enter="65">65*69</numero>
+                        <districte codi="06">Gràcia</districte>
+                        <barri codi="28">Vallcarca i els Penitents</barri>
+                        <codi_postal>08000</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28198872" y="85945110"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.42000888333333" lon="2.1396569444444444"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661668</id>
+                    <nom>WC Públic *Biblioteca Vapor Vell</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="700952">Ptge Vapor Vell</carrer>
+                        <numero davant="0" enter="1">1</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="18">Sants</barri>
+                        <codi_postal>08028</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="27739652" y="81163084"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37689791388889" lon="2.13473325"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661669</id>
+                    <nom>WC Públic *Biblioteca Vila de Gràcia</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="208001">C Torrent de l'Olla</carrer>
+                        <numero davant="0" enter="104">104</numero>
+                        <districte codi="06">Gràcia</districte>
+                        <barri codi="31">la Vila de Gràcia</barri>
+                        <codi_postal>08012</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29729583" y="83871464"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.401467713888884" lon="2.1582134444444443"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661670</id>
+                    <nom>WC Públic *Biblioteca Vilapicina i la Torre Llobeta</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="701719">Pl Carmen Laforet</carrer>
+                        <numero davant="0" enter="11">11</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="44">Vilapicina i la Torre Llobeta</barri>
+                        <codi_postal>08016</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31280960" y="86678701"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.42688573611111" lon="2.1764520277777777"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661671</id>
+                    <nom>WC Públic *Biblioteca Xavier Benguerel</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="044200">Av Bogatell</carrer>
+                        <numero davant="0" enter="17">17</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="67">la Vila Olímpica del Poblenou</barri>
+                        <codi_postal>08005</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="33021778" y="82834370"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.392408025" lon="2.197709722222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661672</id>
+                    <nom>WC Públic *Biblioteca Zona Nord</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="351606">C Vallcivera</carrer>
+                        <numero davant="0" enter="3">3*LB</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="54">Torre Baró</barri>
+                        <codi_postal>08033</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31603117" y="90489761"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.46123805555556" lon="2.1798754444444444"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660310</id>
+                    <nom>WC Públic *Centre de Serveis Socials Antiga Esquerra de l'Eixample</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="191204">C Mallorca</carrer>
+                        <numero davant="0" enter="219">219</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="08">l'Antiga Esquerra de l'Eixample</barri>
+                        <codi_postal>08008</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29773936" y="82731857"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.39120754166667" lon="2.158876222222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660332</id>
+                    <nom>WC Públic *Centre de Serveis Socials Baix Guinardó - Can Baró</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="178308">C Lepant</carrer>
+                        <numero davant="0" enter="387">387</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="33">el Baix Guinardó</barri>
+                        <codi_postal>08025</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30669373" y="84792601"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40984571944444" lon="2.1693496666666667"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660351</id>
+                    <nom>WC Públic *Centre de Serveis Socials Besòs</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="266405">Rbla Prim</carrer>
+                        <numero davant="0" enter="87">87*89</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="70">el Besòs i el Maresme</barri>
+                        <codi_postal>08019</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="34225032" y="85496770"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.41648699444444" lon="2.2118117500000003"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660328</id>
+                    <nom>WC Públic *Centre de Serveis Socials Camp d'en Grassot - Gràcia Nova</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="007906">C Ca l'Alegre de Dalt</carrer>
+                        <numero davant="0" enter="5">5</numero>
+                        <districte codi="06">Gràcia</districte>
+                        <barri codi="32">el Camp d'en Grassot i Gràcia Nova</barri>
+                        <codi_postal>08024</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30135011" y="84489953"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40707358333333" lon="2.1629917499999998"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660329</id>
+                    <nom>WC Públic *Centre de Serveis Socials Carmel</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="320307">C Santuari</carrer>
+                        <numero davant="0" enter="27">27</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="37">el Carmel</barri>
+                        <codi_postal>08032</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29161777" y="85964404"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.42026816944444" lon="2.1511761944444445"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660302</id>
+                    <nom>WC Públic *Centre de Serveis Socials Casc Antic</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="201400">Pg Picasso</carrer>
+                        <numero davant="0" enter="4">4</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="04">Sant Pere, Santa Caterina i la Ribera</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31691220" y="82411885"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38849085277778" lon="2.181843361111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660343</id>
+                    <nom>WC Públic *Centre de Serveis Socials Ciutat Meridiana-Torre Baró-Vallbona</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="275600">Av Rasos de Peguera</carrer>
+                        <numero davant="0" enter="25">25</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="55">Ciutat Meridiana</barri>
+                        <codi_postal>08033</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31441351" y="90480122"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.46113742777778" lon="2.177939722222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660352</id>
+                    <nom>WC Públic *Centre de Serveis Socials Clot - Camp de l'Arpa</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="092701">C Corunya</carrer>
+                        <numero davant="0" enter="5">5*7</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="65">el Clot</barri>
+                        <codi_postal>08026</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32088335" y="84483339"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40718149722222" lon="2.1863602777777777"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660317</id>
+                    <nom>WC Públic *Centre de Serveis Socials Cotxeres de Sants</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="134958">Pas Fructuós Gelabert</carrer>
+                        <numero davant="0" enter="2">2</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="18">Sants</barri>
+                        <codi_postal>08014</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="27887288" y="80972713"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37519656388889" lon="2.13652125"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660311</id>
+                    <nom>WC Públic *Centre de Serveis Socials Dreta de l'Eixample</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="335100">Pl Tetuan</carrer>
+                        <numero davant="0" enter="2">2</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="07">la Dreta de Eixample</barri>
+                        <codi_postal>08010</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31227900" y="83032503"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.394041075" lon="2.176231694444444"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660346</id>
+                    <nom>WC Públic *Centre de Serveis Socials Franja Besòs</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="116209">C Estadella</carrer>
+                        <numero davant="0" enter="64">64</numero>
+                        <districte codi="09">Sant Andreu</districte>
+                        <barri codi="59">el Bon Pastor</barri>
+                        <codi_postal>08030</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="33646676" y="87576614"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43517198055555" lon="2.204663416666667"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660348</id>
+                    <nom>WC Públic *Centre de Serveis Socials Garcilaso</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="140407">C Garcilaso</carrer>
+                        <numero davant="0" enter="103">103</numero>
+                        <districte codi="09">Sant Andreu</districte>
+                        <barri codi="61">la Sagrera</barri>
+                        <codi_postal>08027</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32091590" y="86196245"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.422609386111105" lon="2.1862068333333333"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660330</id>
+                    <nom>WC Públic *Centre de Serveis Socials Guinardó</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="152905">Rda Guinardó</carrer>
+                        <numero davant="0" enter="113">113*141</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="35">el Guinardó</barri>
+                        <codi_postal>08041</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31011209" y="85481243"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.41607751666667" lon="2.1733606666666665"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660341</id>
+                    <nom>WC Públic *Centre de Serveis Socials Guineueta-Verdun-Prosperitat</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="070709">C Enric Casanovas</carrer>
+                        <numero davant="0" enter="73">73*77</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="52">la Prosperitat</barri>
+                        <codi_postal>08016</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31657842" y="88345165"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.44192716111111" lon="2.1807735277777778"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660333</id>
+                    <nom>WC Públic *Centre de Serveis Socials Horta</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="319206">C Santes Creus</carrer>
+                        <numero davant="0" enter="8">8</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="43">Horta</barri>
+                        <codi_postal>08031</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30096429" y="87069081"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43029947777777" lon="2.162231944444444"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660243</id>
+                    <nom>WC Públic *Centre de Serveis Socials la Barceloneta</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="031900">C Balboa</carrer>
+                        <numero davant="0" enter="11">11</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="03">la Barceloneta</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32220972" y="81710751"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38222075833333" lon="2.1882575277777776"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660319</id>
+                    <nom>WC Públic *Centre de Serveis Socials La Marina</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="369408">Pg Zona Franca</carrer>
+                        <numero davant="0" enter="185">185</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="13">la Marina de Port</barri>
+                        <codi_postal>08038</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="27982733" y="79390830"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.36095764444445" lon="2.137850472222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660326</id>
+                    <nom>WC Públic *Centre de Serveis Socials La Salut- El Coll- Vallcarca i Els
+                        Penitents</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="320602">C Sargelet</carrer>
+                        <numero davant="0" enter="2">2</numero>
+                        <districte codi="06">Gràcia</districte>
+                        <barri codi="30">la Salut</barri>
+                        <codi_postal>08024</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29123331" y="84711499"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.408980352777775" lon="2.1508630555555555"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660324</id>
+                    <nom>WC Públic *Centre de Serveis Socials La Vila de Gràcia</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="284305">Pl Vila de Gràcia</carrer>
+                        <numero davant="0" enter="2">2</numero>
+                        <districte codi="06">Gràcia</districte>
+                        <barri codi="31">la Vila de Gràcia</barri>
+                        <codi_postal>08012</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29697014" y="83705674"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.39997165277778" lon="2.157843111111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660321</id>
+                    <nom>WC Públic *Centre de Serveis Socials Les Corts</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="058554">C Can Bruixa</carrer>
+                        <numero davant="0" enter="7">7*11</numero>
+                        <districte codi="04">Les Corts</districte>
+                        <barri codi="19">les Corts</barri>
+                        <codi_postal>08028</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="27475202" y="81949976"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38396134722222" lon="2.131476888888889"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660307</id>
+                    <nom>WC Públic *Centre de Serveis Socials Nova Esquerra de l'Eixample</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="087009">C Comte Borrell</carrer>
+                        <numero davant="0" enter="305">305</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="09">la Nova Esquerra de l'Eixample</barri>
+                        <codi_postal>08029</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28727663" y="82550221"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.389479530555555" lon="2.1463840833333334"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660318</id>
+                    <nom>WC Públic *Centre de Serveis Socials Numància</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="231502">C Numància</carrer>
+                        <numero davant="0" enter="7">7*13</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="18">Sants</barri>
+                        <codi_postal>08014</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28259272" y="81628773"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.381138725" lon="2.140891416666667"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660354</id>
+                    <nom>WC Públic *Centre de Serveis Socials Poblenou</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="700802">Pl Josep M. Huertas Claveria</carrer>
+                        <numero davant="0" enter="1">1</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="68">el Poblenou</barri>
+                        <codi_postal>08005</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="33264962" y="84080743"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.403654019444446" lon="2.200480861111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660314</id>
+                    <nom>WC Públic *Centre de Serveis Socials Poble-sec</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="288408">C Roser</carrer>
+                        <numero davant="0" enter="15">15</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="11">el Poble-sec</barri>
+                        <codi_postal>08004</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30436357" y="80793838"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37380998888889" lon="2.167021472222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660345</id>
+                    <nom>WC Públic *Centre de Serveis Socials Porta-Vilapicina i Torrellobeta</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="322404">C Selva</carrer>
+                        <numero davant="0" enter="57">57</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="45">Porta</barri>
+                        <codi_postal>08016</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31216329" y="87673380"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43583891666666" lon="2.175565361111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660304</id>
+                    <nom>WC Públic *Centre de Serveis Socials Raval Nord</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="067307">C Carme</carrer>
+                        <numero davant="0" enter="101">101*109</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30403425" y="81464505"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37984763888889" lon="2.1665506666666667"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660305</id>
+                    <nom>WC Públic *Centre de Serveis Socials Raval Sud</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="067307">C Carme</carrer>
+                        <numero davant="0" enter="101">101*109</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30403425" y="81464505"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37984763888889" lon="2.1665506666666667"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660338</id>
+                    <nom>WC Públic *Centre de Serveis Socials Roquetes-Trinitat Nova-Canyelles</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="359700">C Vidal i Guasch</carrer>
+                        <numero davant="0" enter="76">76*78</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="50">les Roquetes</barri>
+                        <codi_postal>08042</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31303757" y="89017501"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.4479524" lon="2.1764588055555554"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660313</id>
+                    <nom>WC Públic *Centre de Serveis Socials Sagrada Família</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="191204">C Mallorca</carrer>
+                        <numero davant="0" enter="425">425*433</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="06">la Sagrada Família</barri>
+                        <codi_postal>08013</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31322620" y="84246735"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40498539166666" lon="2.1772268055555553"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660350</id>
+                    <nom>WC Públic *Centre de Serveis Socials Sant Andreu</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="700096">C Paixalet</carrer>
+                        <numero davant="0" enter="2">2</numero>
+                        <districte codi="09">Sant Andreu</districte>
+                        <barri codi="60">Sant Andreu</barri>
+                        <codi_postal>08030</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32589078" y="87805561"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.4371459" lon="2.191980194444444"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660308</id>
+                    <nom>WC Públic *Centre de Serveis Socials Sant Antoni</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="054509">C Calàbria</carrer>
+                        <numero davant="0" enter="38">38</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="10">Sant Antoni</barri>
+                        <codi_postal>08015</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29789186" y="81115532"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37665115833333" lon="2.159246"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660355</id>
+                    <nom>WC Públic *Centre de Serveis Socials Sant Martí - Verneda</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="107503">Pl Eduard Torroja</carrer>
+                        <numero davant="0" enter="17">17</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="72">Sant Martí de Provençals</barri>
+                        <codi_postal>08020</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="33155071" y="85398842"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.415516644444445" lon="2.199020611111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660322</id>
+                    <nom>WC Públic *Centre de Serveis Socials Sarrià</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="294604">C Salvador Mundí</carrer>
+                        <numero davant="0" enter="4">4*LB</numero>
+                        <districte codi="05">Sarrià-Sant Gervasi</districte>
+                        <barri codi="23">Sarrià</barri>
+                        <codi_postal>08017</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="26755119" y="83657517"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.39927518333333" lon="2.122659055555556"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660344</id>
+                    <nom>WC Públic *Centre de Serveis Socials Turó de la Peira-Can Peguera</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="322404">C Selva</carrer>
+                        <numero davant="0" enter="61">61</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="45">Porta</barri>
+                        <codi_postal>08016</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31206066" y="87654413"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43566720833333" lon="2.1754446944444443"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660335</id>
+                    <nom>WC Públic *Centre de Serveis Socials Vall d'Hebron</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="700827">Av Cardenal Vidal i Barraquer</carrer>
+                        <numero davant="0" enter="45">45</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="41">la Vall d'Hebron</barri>
+                        <codi_postal>08035</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29205757" y="87372886"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43295767222222" lon="2.151537444444444"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661793</id>
+                    <nom>WC Públic *Consell Municipal del Districte de Gràcia</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="284305">Pl Vila de Gràcia</carrer>
+                        <numero davant="0" enter="2">2</numero>
+                        <districte codi="06">Gràcia</districte>
+                        <barri codi="31">la Vila de Gràcia</barri>
+                        <codi_postal>08012</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29697014" y="83705674"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.39997165277778" lon="2.157843111111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661790</id>
+                    <nom>WC Públic *Consell Municipal del Districte de l'Eixample</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="018505">C Aragó</carrer>
+                        <numero davant="0" enter="311">311</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="07">la Dreta de Eixample</barri>
+                        <codi_postal>08009</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30592100" y="83173234"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.39525394444444" lon="2.168610972222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661789</id>
+                    <nom>WC Públic *Consell Municipal del Districte de Les Corts</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="084907">Pl Comas</carrer>
+                        <numero davant="0" enter="18">18</numero>
+                        <districte codi="04">Les Corts</districte>
+                        <barri codi="19">les Corts</barri>
+                        <codi_postal>08028</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="27332352" y="82135228"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38561694444444" lon="2.129746361111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661791</id>
+                    <nom>WC Públic *Consell Municipal del Districte de Sant Andreu</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="235809">Pl Orfila</carrer>
+                        <numero davant="0" enter="1">1</numero>
+                        <districte codi="09">Sant Andreu</districte>
+                        <barri codi="60">Sant Andreu</barri>
+                        <codi_postal>08030</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32481253" y="87666902"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43588798055555" lon="2.1907051944444444"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661788</id>
+                    <nom>WC Públic *Consell Municipal del Districte de Sant Martí</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="350603">Pl Valentí Almirall</carrer>
+                        <numero davant="0" enter="1">1</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="65">el Clot</barri>
+                        <codi_postal>08018</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32560271" y="84671205"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40891330833333" lon="2.1919851666666665"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661792</id>
+                    <nom>WC Públic *Consell Municipal del Districte de Sarrià - Sant Gervasi</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="261300">Pl Consell de la Vila</carrer>
+                        <numero davant="0" enter="7">7</numero>
+                        <districte codi="05">Sarrià-Sant Gervasi</districte>
+                        <barri codi="23">Sarrià</barri>
+                        <codi_postal>08034</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="26649399" y="83639008"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.39909883611111" lon="2.1213967222222223"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661794</id>
+                    <nom>WC Públic *Consell Municipal del Districte d'Horta - Guinardó</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="152905">Rda Guinardó</carrer>
+                        <numero davant="0" enter="49">49</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="33">el Baix Guinardó</barri>
+                        <codi_postal>08024</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30430934" y="85118987"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.412764752777775" lon="2.1664595277777776"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660301</id>
+                    <nom>WC Públic *Espai Barcelona Cuida</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="361406">C Viladomat</carrer>
+                        <numero davant="0" enter="127">127</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="09">la Nova Esquerra de l'Eixample</barri>
+                        <codi_postal>08015</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29491197" y="81580654"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38081429166667" lon="2.1556286944444443"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661468</id>
+                    <nom>WC Públic *Mercat Ciutat Meridiana</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="092950">C Costabona</carrer>
+                        <numero davant="0" enter="4">4</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="55">Ciutat Meridiana</barri>
+                        <codi_postal>08033</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31429506" y="90541922"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.46169302222223" lon="2.1777908611111108"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661455</id>
+                    <nom>WC Públic *Mercat de la Marina</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="369408">Pg Zona Franca</carrer>
+                        <numero davant="0" enter="178">178*180</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="13">la Marina de Port</barri>
+                        <codi_postal>08038</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28092790" y="79322201"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.36034936944444" lon="2.139174277777778"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661471</id>
+                    <nom>WC Públic *Mercat de la Trinitat</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="250507">C Pedrosa</carrer>
+                        <numero davant="0" enter="21">21</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="53">la Trinitat Nova</barri>
+                        <codi_postal>08033</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31952738" y="89090314"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.44866350833333" lon="2.184219305555555"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661460</id>
+                    <nom>WC Públic *Mercat de l'Abaceria</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="305100">Pg Sant Joan</carrer>
+                        <numero davant="0" enter="168">168</numero>
+                        <districte codi="06">Gràcia</districte>
+                        <barri codi="32">el Camp d'en Grassot i Gràcia Nova</barri>
+                        <codi_postal>08037</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30321526" y="84034327"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40298611111111" lon="2.1652755"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661461</id>
+                    <nom>WC Públic *Mercat de l'Estrella</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="144306">C Pi i Margall</carrer>
+                        <numero davant="0" enter="73">73*75</numero>
+                        <districte codi="06">Gràcia</districte>
+                        <barri codi="32">el Camp d'en Grassot i Gràcia Nova</barri>
+                        <codi_postal>08024</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30220835" y="84799967"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40987322777778" lon="2.1639826944444445"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661469</id>
+                    <nom>WC Públic *Mercat de Montserrat</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="120807">Via Favència</carrer>
+                        <numero davant="0" enter="241">241</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="50">les Roquetes</barri>
+                        <codi_postal>08042</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31510905" y="88833990"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.446317297222215" lon="2.1789593055555554"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661478</id>
+                    <nom>WC Públic *Mercat de Provençals</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="208205">C Menorca</carrer>
+                        <numero davant="0" enter="19">19</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="72">Sant Martí de Provençals</barri>
+                        <codi_postal>08020</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32946082" y="85835125"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.41942869722222" lon="2.196471722222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661473</id>
+                    <nom>WC Públic *Mercat de Sant Andreu</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="295709">C Sant Adrià</carrer>
+                        <numero davant="0" enter="16">16</numero>
+                        <districte codi="09">Sant Andreu</districte>
+                        <barri codi="60">Sant Andreu</barri>
+                        <codi_postal>08030</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32479472" y="87416195"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43362979444444" lon="2.1907118888888886"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661458</id>
+                    <nom>WC Públic *Mercat de Sant Gervasi</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="231706">Pl Joaquim Folguera</carrer>
+                        <numero davant="0" enter="6">6</numero>
+                        <districte codi="05">Sarrià-Sant Gervasi</districte>
+                        <barri codi="25">Sant Gervasi - la Bonanova</barri>
+                        <codi_postal>08022</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28089032" y="84350728"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.405639119444444" lon="2.1385322777777778"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661480</id>
+                    <nom>WC Públic *Mercat de Sant Martí</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="270107">C Puigcerdà</carrer>
+                        <numero davant="0" enter="206">206*212</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="73">la Verneda i la Pau</barri>
+                        <codi_postal>08020</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="33682855" y="85739647"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.41862993333333" lon="2.205298"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661456</id>
+                    <nom>WC Públic *Mercat de Sants</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="304209">C Sant Jordi</carrer>
+                        <numero davant="0" enter="6">6</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="18">Sants</barri>
+                        <codi_postal>08028</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="27653950" y="80921233"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.374711947222224" lon="2.1337373611111112"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661459</id>
+                    <nom>WC Públic *Mercat de Tres Torres</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="357103">C Vergós</carrer>
+                        <numero davant="0" enter="2">2</numero>
+                        <districte codi="05">Sarrià-Sant Gervasi</districte>
+                        <barri codi="24">les Tres Torres</barri>
+                        <codi_postal>08017</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="27474866" y="83721570"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.39991735555556" lon="2.131260611111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661474</id>
+                    <nom>WC Públic *Mercat del Besòs</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="165601">C Jaume Huguet</carrer>
+                        <numero davant="0" enter="38">38</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="70">el Besòs i el Maresme</barri>
+                        <codi_postal>08019</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="34503583" y="85795854"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.41920353333333" lon="2.2151121944444445"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661472</id>
+                    <nom>WC Públic *Mercat del Bon Pastor</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="295709">C Sant Adrià</carrer>
+                        <numero davant="0" enter="154">154*162</numero>
+                        <districte codi="09">Sant Andreu</districte>
+                        <barri codi="59">el Bon Pastor</barri>
+                        <codi_postal>08030</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="33772118" y="87665514"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43598303611111" lon="2.2061549722222225"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661462</id>
+                    <nom>WC Públic *Mercat del Carmel</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="185700">C Llobregós</carrer>
+                        <numero davant="0" enter="149">149</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="37">el Carmel</barri>
+                        <codi_postal>08032</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29532232" y="86362066"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.42388235" lon="2.1555625"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661381</id>
+                    <nom>WC Públic *Mercat del Fort Pienc</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="701420">Pl Fort Pienc</carrer>
+                        <numero davant="0" enter="3">3</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="05">el Fort Pienc</barri>
+                        <codi_postal>08013</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31746554" y="83234954"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.395908702777774" lon="2.182412333333333"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661457</id>
+                    <nom>WC Públic *Mercat del Galvany</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="318804">C Santaló</carrer>
+                        <numero davant="0" enter="65">65</numero>
+                        <districte codi="05">Sarrià-Sant Gervasi</districte>
+                        <barri codi="26">Sant Gervasi - Galvany</barri>
+                        <codi_postal>08021</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28540788" y="83377087"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.39691021666667" lon="2.1440514999999998"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661465</id>
+                    <nom>WC Públic *Mercat del Guinardó</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="334403">C Teodor Llorente</carrer>
+                        <numero davant="0" enter="12">12</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="35">el Guinardó</barri>
+                        <codi_postal>08041</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31539123" y="85822649"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.41919761944444" lon="2.179638361111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661383</id>
+                    <nom>WC Públic *Mercat del Ninot</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="191204">C Mallorca</carrer>
+                        <numero davant="0" enter="133">133</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="08">l'Antiga Esquerra de l'Eixample</barri>
+                        <codi_postal>08036</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29395892" y="82360032"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38782552777778" lon="2.154398138888889"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661475</id>
+                    <nom>WC Públic *Mercat del Poblenou</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="349003">Pl Unió</carrer>
+                        <numero davant="0" enter="25">25</numero>
+                        <districte codi="10">Sant Martí</districte>
+                        <barri codi="68">el Poblenou</barri>
+                        <codi_postal>08005</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="33675032" y="83781822"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40099566666667" lon="2.2054191111111114"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661466</id>
+                    <nom>WC Públic *Mercat d'Horta</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="329505">C Tajo</carrer>
+                        <numero davant="0" enter="75">75</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="43">Horta</barri>
+                        <codi_postal>08032</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="29875331" y="86993404"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.42959860277777" lon="2.1595948055555554"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661452</id>
+                    <nom>WC Públic *Mercat d'Hostafrancs</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="094809">C Creu Coberta</carrer>
+                        <numero davant="0" enter="93">93</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="15">Hostafrancs</barri>
+                        <codi_postal>08014</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28498570" y="80960259"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37513896666667" lon="2.1438318888888888"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661384</id>
+                    <nom>WC Públic *Mercat Encants Vells Fira de Bellcaire</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="073900">C Castillejos</carrer>
+                        <numero davant="0" enter="158">158</numero>
+                        <districte codi="02">Eixample</districte>
+                        <barri codi="05">el Fort Pienc</barri>
+                        <codi_postal>08018</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31983936" y="83846721"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.40143883611111" lon="2.1851829166666663"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400661467</id>
+                    <nom>WC Públic *Mercat Vall d'Hebron - Teixonera</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="352507">Pg Vall d'Hebron</carrer>
+                        <numero davant="0" enter="130">130*134</numero>
+                        <districte codi="07">Horta-Guinardó</districte>
+                        <barri codi="38">la Teixonera</barri>
+                        <codi_postal>08035</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28435519" y="86389606"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.42403339444444" lon="2.142435888888889"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400628004</id>
+                    <nom>WC Públic *Passeig de Lluís Companys</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="359109">Pg Lluís Companys</carrer>
+                        <numero davant="1" enter="16">16</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="04">Sant Pere, Santa Caterina i la Ribera</barri>
+                        <codi_postal>08018</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31734015" y="82643227"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.39057812222222" lon="2.1823290833333333"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400627997</id>
+                    <nom>WC Públic *Passeig del Born / Rec</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="046409">Pg Born</carrer>
+                        <numero davant="1" enter="27">27</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="04">Sant Pere, Santa Caterina i la Ribera</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31788672" y="82064394"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38536937222222" lon="2.183048"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400628008</id>
+                    <nom>WC Públic *Passeig Marítim</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="197903">Pg Marítim de la Barceloneta</carrer>
+                        <numero davant="1" enter="30">30</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="03">la Barceloneta</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32803971" y="81839640"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38343056111111" lon="2.1952150555555554"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400628000</id>
+                    <nom>WC Públic *Passeig Picasso</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="201400">Pg Picasso</carrer>
+                        <numero davant="1" enter="12">12</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="04">Sant Pere, Santa Caterina i la Ribera</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31749738" y="82330850"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38776596388889" lon="2.182552361111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400628012</id>
+                    <nom>WC Públic *Plaça de Floch i Torres</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="177305">C Lleialtat</carrer>
+                        <numero davant="1" enter="10">10</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30408272" y="81142701"/>
+                            <dibuix x="3041015" y="8110698"/>
+                            <googleMaps lat="41.37694966666667" lon="2.166645583333333"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400627935</id>
+                    <nom>WC Públic *Plaça del Duc de Medinacelli</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="106205">Pl Duc de Medinaceli</carrer>
+                        <numero davant="1" enter="3">3</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="02">el Barri Gòtic</barri>
+                        <codi_postal>08002</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31437899" y="81315250"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37859220277778" lon="2.1789378888888886"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400628011</id>
+                    <nom>WC Públic *Plaça del Poeta Boscà</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="260908">Pl Poeta Boscà</carrer>
+                        <numero davant="1" enter="1">1</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="03">la Barceloneta</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32302986" y="81487311"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.3802152" lon="2.1892632777777776"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400165981</id>
+                    <nom>WC Públic *Plaça del Teatre</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="332500">Pl Teatre</carrer>
+                        <numero davant="1" enter="30">30</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="02">el Barri Gòtic</barri>
+                        <codi_postal>08002</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="31198093" y="81314905"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.37856861388889" lon="2.176070361111111"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <telefon>
+                        <tipus codi="00020042">No tenen telèfon</tipus>
+                        <numero_telf/>
+                        <observacions/>
+                    </telefon>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400165984</id>
+                    <nom>WC Públic *Plaça dels Àngels</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="016601">Pl Àngels</carrer>
+                        <numero davant="1" enter="8">8</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30419580" y="81766152"/>
+                            <dibuix x="30469755" y="81798081"/>
+                            <googleMaps lat="41.38256588055555" lon="2.166709194444444"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <telefon>
+                        <tipus codi="00020042">No tenen telèfon</tipus>
+                        <numero_telf/>
+                        <observacions/>
+                    </telefon>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400344367</id>
+                    <nom>WC Públic* Plaça Ferran Casablancas</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="123204">Pl Ferran Casablancas</carrer>
+                        <numero davant="0" enter="2">2</numero>
+                        <districte codi="05">Sarrià-Sant Gervasi</districte>
+                        <barri codi="25">Sant Gervasi - la Bonanova</barri>
+                        <codi_postal>08022</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="27717398" y="83835604"/>
+                            <dibuix x="27614584" y="83865218"/>
+                            <googleMaps lat="41.40096626388889" lon="2.1341480833333333"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400392756</id>
+                    <nom>WC Públic *Plaça Salvador Seguí</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="294659">Pl Salvador Seguí</carrer>
+                        <numero davant="1" enter="13">13</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30749876" y="81371791"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.3790425" lon="2.1707041388888886"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <telefon>
+                        <tipus codi="00020042">No tenen telèfon</tipus>
+                        <numero_telf/>
+                        <observacions/>
+                    </telefon>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400208757</id>
+                    <nom>WC Públic *Plaça Sant Agustí</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="295902">Pl Sant Agustí</carrer>
+                        <numero davant="1" enter="2">2</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30850198" y="81527906"/>
+                            <dibuix x="30844114" y="81543980"/>
+                            <googleMaps lat="41.38045721388889" lon="2.171885972222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <telefon>
+                        <tipus codi="00020042">No tenen telèfon</tipus>
+                        <numero_telf/>
+                        <observacions/>
+                    </telefon>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400392747</id>
+                    <nom>WC Públic *Plaça Terenci Moix</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="701671">Pl Terenci Moix</carrer>
+                        <numero davant="1" enter="1">1</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30312350" y="81939187"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38411506944444" lon="2.1654069722222222"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <telefon>
+                        <tipus codi="00020042">No tenen telèfon</tipus>
+                        <numero_telf/>
+                        <observacions/>
+                    </telefon>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400627916</id>
+                    <nom>WC Públic *Rambla del Raval</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="701367">Rbla Raval</carrer>
+                        <numero davant="1" enter="17">17</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="01">el Raval</barri>
+                        <codi_postal>08001</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30646224" y="81367297"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.378993091666665" lon="2.1694651944444443"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660370</id>
+                    <nom>WC Públic *Servei d'Atenció a Homes</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="198203">Av Marquès de l'Argentera</carrer>
+                        <numero davant="0" enter="22">22</numero>
+                        <districte codi="01">Ciutat Vella</districte>
+                        <barri codi="04">Sant Pere, Santa Caterina i la Ribera</barri>
+                        <codi_postal>08003</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="32030192" y="82034216"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.38511801944444" lon="2.1859397777777776"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660356</id>
+                    <nom>WC Públic *Servei d'Atenció a Immigrants, Emigrants i Refugiats</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="331507">C Tarragona</carrer>
+                        <numero davant="0" enter="141">141</numero>
+                        <districte codi="03">Sants-Montjuïc</districte>
+                        <barri codi="15">Hostafrancs</barri>
+                        <codi_postal>08014</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="28591719" y="81317448"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.378364319444444" lon="2.1449035833333334"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+                <equipament>
+                    <id>99400660368</id>
+                    <nom>WC Públic *Servei d'Atenció, Recuperació i Acollida</nom>
+                    <seccio>#</seccio>
+                    <sigla/>
+                    <adreca_simple>
+                        <carrer codi="701149">C Marie Curie</carrer>
+                        <numero davant="0" enter="16">16</numero>
+                        <districte codi="08">Nou Barris</districte>
+                        <barri codi="48">la Guineueta</barri>
+                        <codi_postal>08042</codi_postal>
+                        <municipi codi="019">BARCELONA</municipi>
+                        <coordenades>
+                            <geocodificacio x="30752099" y="87801642"/>
+                            <dibuix x="" y=""/>
+                            <googleMaps lat="41.43695420555555" lon="2.169994583333333"/>
+                        </coordenades>
+                    </adreca_simple>
+                    <classificacions>
+                        <nivell codi="0040102011000">WC públics</nivell>
+                    </classificacions>
+                    <arxius_annexats></arxius_annexats>
+                </equipament>
+            </equipaments>
+        </resultat>
+    </body>
+</response>

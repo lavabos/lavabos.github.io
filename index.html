@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+        <title>WC Barcelona</title>
+        <link
+            rel="stylesheet"
+            href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+            integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+            crossorigin=""/>
+        <script
+            src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+            integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+            crossorigin=""></script>
+
+        <style>
+            body {
+                padding: 0;
+                margin: 0;
+            }
+
+            #wc-barcelona-map,
+            body,
+            html {
+                height: 100%;
+                width: 100vw;
+            }
+        </style>
+        <script src="wc.js"></script>
+    </head>
+    <body>
+        <div id="wc-barcelona-map"></div>
+
+        <script>
+            function setInitialMapZoom() {
+                var viewportWidth = window.innerWidth;
+                var mapZoom;
+                
+                x = 300;
+                y = 1024;
+
+                a = 11;
+                b = 12;
+                c = 13;
+
+                if (viewportWidth < x) {
+                    mapZoom = a;
+                } else if (viewportWidth >= x && viewportWidth < y) {
+                    mapZoom = b;
+                } else {
+                    mapZoom = c;
+                }
+
+                return mapZoom;
+            }
+
+            var bcnmap = L
+                .map('wc-barcelona-map')
+                .setView([
+                    41.40927803333333, 2.16835875
+                ], setInitialMapZoom());
+
+            L
+                .tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '<a href="https://opendata-ajuntament.barcelona.cat/data/ca/dataset/lavabos-publics">Dades de l\'Ajuntament de Barcelona</a> (revisades 30 gener 2021). Twitter: <a href="https://twitter.com/urixturing">@urixturing</a>, <a href="https://twitter.com/annabzz">@annabzz</a>, <a href="https://twitter.com/alvaromartinez">@alvaromartinez</a>. &copy; dels mapes: <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                })
+                .addTo(bcnmap);
+
+            for (let wc_index = 0; wc_index < wc_barcelona_data.length; wc_index++) {
+                const wc = wc_barcelona_data[wc_index];
+                var marker = L
+                    .marker([
+                        wc['lat'], wc['lon']
+                    ])
+                    .addTo(bcnmap)
+                    .bindPopup('<b>' + wc['name'] + '</b><br />' + wc['address']);
+            }
+        </script>
+    </body>
+</html>

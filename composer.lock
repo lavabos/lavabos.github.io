@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "14d1b094682813bde054db2fb829a52f",
+    "packages": [
+        {
+            "name": "extphp/xml-to-json",
+            "version": "v0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/extphp/xml-to-json.git",
+                "reference": "8160790416c685ee9e618cd5f3951387aea2a6f8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/extphp/xml-to-json/zipball/8160790416c685ee9e618cd5f3951387aea2a6f8",
+                "reference": "8160790416c685ee9e618cd5f3951387aea2a6f8",
+                "shasum": ""
+            },
+            "require-dev": {
+                "phpunit/phpunit": ">=5.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ExtPHP\\XmlToJson\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Bogdan Cismariu",
+                    "email": "bogdan.cismariu@gmail.com"
+                }
+            ],
+            "description": "An XML to JSON converter that will properly preserve attributes.",
+            "keywords": [
+                "converter",
+                "json",
+                "xml"
+            ],
+            "time": "2019-08-21T08:29:48+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
