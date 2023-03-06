@@ -25,6 +25,8 @@ foreach ($wcData as $key => $wc) {
     $listOfPublicWcs[$key]['address'] = $address['address_name'] . " " . $address['start_street_number'] . " (" . $address['zip_code'] . ")";
 }
 
+echo "Found " . count($listOfPublicWcs) . " public WC's in Barcelona";
+
 echo "Saving to wc.js...\n";
 
 $fp = fopen('wc.js', 'w');
