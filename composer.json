@@ -1,8 +1,0 @@
-{
-    "name": "wc-barcelona/wc-barcelona",
-    "type": "project",
-    "require": {
-        "extphp/xml-to-json": "^0.2.0"
-    },
-    "license": "MIT"
-}

@@ -1,30 +1,32 @@
 <?php
-require __DIR__ . '/vendor/autoload.php';
+$jsonUrl = "https://opendata-ajuntament.barcelona.cat/data/dataset/830265fe-c8c5-44b5-9aae-a80afceb02b6/resource/025707a3-acd0-4c1e-a6e7-daf8faff2703/download";
 
-use ExtPHP\XmlToJson\XmlToJsonConverter;
+echo "Downloading wc.json...\n";
 
-echo "Opening wc.xml...";
+$wcJson = file_get_contents($jsonUrl);
 
-$converter = new XmlToJsonConverter(simplexml_load_file('wc.xml'));
-$originalList = $converter->toArray()['response']['body']['resultat']['equipaments']['equipament'];
+echo "Parsing wc.json...\n";
+
+$wcData = json_decode($wcJson, true);
 
 $listOfPublicWcs = [];
-foreach ($originalList as $key => $wc) {
-    $listOfPublicWcs[$key]['name'] = $wc['nom']['_value'];
-    $listOfPublicWcs[$key]['lat'] = $wc['adreca_simple']['coordenades']['googleMaps']['_attributes']['lat'];
-    $listOfPublicWcs[$key]['lon'] = $wc['adreca_simple']['coordenades']['googleMaps']['_attributes']['lon'];
-    $listOfPublicWcs[$key]['address'] = $wc['adreca_simple']['carrer']['_value']
-        . " " .
-        $wc['adreca_simple']['numero']['_attributes']['enter']
-        . " (" .
-        $wc['adreca_simple']['codi_postal']['_value']
-        . ") ";
+
+foreach ($wcData as $key => $wc) {
+    $name = $wc['name'];
+    if (str_starts_with($name, 'WC Públic *')) {
+        $listOfPublicWcs[$key]['name'] = substr($name, strlen('WC Públic *'));
+    } else if ($wc['is_section_of_data']['name'] !== null) {
+        $listOfPublicWcs[$key]['name'] = $wc['is_section_of_data']['name'];
+    }
+    $coordinates = $wc['geo_epgs_4326'];
+    $listOfPublicWcs[$key]['lat'] = $coordinates['x'];
+    $listOfPublicWcs[$key]['lon'] = $coordinates['y'];
+    $address = $wc['addresses'][0];
+    $listOfPublicWcs[$key]['address'] = $address['address_name'] . " " . $address['start_street_number'] . " (" . $address['zip_code'] . ")";
 }
 
-echo "Found " . count($listOfPublicWcs) . " public WC's in Barcelona";
-
-echo "Saving to wc.js...";
+echo "Saving to wc.js...\n";
 
 $fp = fopen('wc.js', 'w');
-fwrite($fp, 'var wc_barcelona_data = ' . json_encode($listOfPublicWcs) . ';');
+fwrite($fp, 'var wc_barcelona_data = ' . json_encode($listOfPublicWcs, JSON_PRETTY_PRINT) . ';');
 fclose($fp);
