@@ -3,6 +3,8 @@ require __DIR__ . '/vendor/autoload.php';
 
 use ExtPHP\XmlToJson\XmlToJsonConverter;
 
+echo "Opening wc.xml...";
+
 $converter = new XmlToJsonConverter(simplexml_load_file('wc.xml'));
 $originalList = $converter->toArray()['response']['body']['resultat']['equipaments']['equipament'];
 
@@ -18,6 +20,10 @@ foreach ($originalList as $key => $wc) {
         $wc['adreca_simple']['codi_postal']['_value']
         . ") ";
 }
+
+echo "Found " . count($listOfPublicWcs) . " public WC's in Barcelona";
+
+echo "Saving to wc.js...";
 
 $fp = fopen('wc.js', 'w');
 fwrite($fp, 'var wc_barcelona_data = ' . json_encode($listOfPublicWcs) . ';');
