@@ -30,3 +30,6 @@ jobs:
 
     - name: Install dependencies
       run: composer install --prefer-dist --no-progress
+
+    - name: Run script
+      run: php wc-barcelona-xml-to-js.php
