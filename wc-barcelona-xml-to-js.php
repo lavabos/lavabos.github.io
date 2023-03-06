@@ -15,7 +15,7 @@ foreach ($wcData as $key => $wc) {
     $name = $wc['name'];
     if (str_starts_with($name, 'WC Públic *')) {
         $listOfPublicWcs[$key]['name'] = substr($name, strlen('WC Públic *'));
-    } else if ($wc['is_section_of_data']['name'] !== null) {
+    } elseif ($wc['is_section_of_data'] !== null) {
         $listOfPublicWcs[$key]['name'] = $wc['is_section_of_data']['name'];
     }
     $coordinates = $wc['geo_epgs_4326'];
