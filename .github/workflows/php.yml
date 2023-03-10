@@ -21,8 +21,8 @@ jobs:
     - name: Commit and push
       if: github.event_name == 'schedule'
       run: |
-        git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-        git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
+        git config --global user.name "${{ vars.CI_COMMIT_AUTHOR }}"
+        git config --global user.email "${{ vars.CI_COMMIT_EMAIL }}"
         git add wc.js
-        git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+        git commit -m "${{ vars.CI_COMMIT_MESSAGE }}"
         git push
