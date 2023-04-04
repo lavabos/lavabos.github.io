@@ -5,7 +5,7 @@ on:
     - cron: '0/5 * * * *'
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build:
@@ -21,8 +21,8 @@ jobs:
     - name: Commit and push
       if: github.event_name == 'schedule'
       run: |
-        git config --global user.name "${{ vars.CI_COMMIT_NAME }}"
-        git config --global user.email "${{ vars.CI_COMMIT_EMAIL }}"
+        git config --global user.name github-actions
+        git config --global user.email github-actions@github.com
         git add wc.js
         git commit -m "${{ vars.CI_COMMIT_MESSAGE }}" 
         git push
