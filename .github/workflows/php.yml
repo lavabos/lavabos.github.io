@@ -21,6 +21,10 @@ jobs:
     - name: Commit and push
       if: github.event_name == 'schedule'
       run: |
+        if [ ! "$(git status --porcelain | grep wc.js)" ]; then
+          echo "No changes to commit"
+          exit 0
+        fi
         git config --global user.name github-actions
         git config --global user.email github-actions@github.com
         git add wc.js
