@@ -32,3 +32,9 @@ echo "Saving to wc.js...\n";
 $fp = fopen('wc.js', 'w');
 fwrite($fp, 'var wc_barcelona_data = ' . json_encode($listOfPublicWcs, JSON_PRETTY_PRINT) . ';');
 fclose($fp);
+
+echo "Updating index.html...\n";
+
+$indexHtml = file_get_contents('index.html');
+$indexHtml = preg_replace('/var revision = .+?;/s', "var revision = '" . date('d/m/Y') . "';", $indexHtml);
+file_put_contents('index.html', $indexHtml);
