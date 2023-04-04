@@ -27,6 +27,6 @@ jobs:
         fi
         git config --global user.name github-actions
         git config --global user.email github-actions@github.com
-        git add wc.js
+        git add wc.js index.html
         git commit -m "${{ vars.CI_COMMIT_MESSAGE }}" 
         git push
