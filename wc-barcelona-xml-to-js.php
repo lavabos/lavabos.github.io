@@ -25,6 +25,10 @@ foreach ($wcData as $key => $wc) {
     $listOfPublicWcs[$key]['address'] = $address['address_name'] . " " . $address['start_street_number'] . " (" . $address['zip_code'] . ")";
 }
 
+usort($listOfPublicWcs, function ($a, $b) {
+    return strcmp($a['address'], $b['address']);
+});
+
 echo "Found " . count($listOfPublicWcs) . " public WC's in Barcelona";
 
 echo "Saving to wc.js...\n";
