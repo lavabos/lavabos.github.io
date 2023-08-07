@@ -552,15 +552,15 @@ var wc_barcelona_data = [
         "address": "Carrer dels \u00c0ngels 24 (08001)"
     },
     {
-        "name": "Biblioteca G\u00f2tic - Andreu Nin",
-        "lat": 41.37848959636991,
-        "lon": 2.176064541270459,
-        "address": "Carrer la Rambla 30 (08002)"
-    },
-    {
         "name": "Pla\u00e7a del Teatre",
         "lat": 41.37846695509569,
         "lon": 2.176049425842645,
+        "address": "Carrer la Rambla 30 (08002)"
+    },
+    {
+        "name": "Biblioteca G\u00f2tic - Andreu Nin",
+        "lat": 41.37848959636991,
+        "lon": 2.176064541270459,
         "address": "Carrer la Rambla 30 (08002)"
     },
     {
@@ -909,15 +909,15 @@ var wc_barcelona_data = [
         "address": "Ptge Vapor Vell 1 (08028)"
     },
     {
-        "name": "Centre de Serveis Socials Bes\u00f2s",
-        "lat": 41.416517694682675,
-        "lon": 2.211829061347205,
-        "address": "Rbla Prim 87 (08019)"
-    },
-    {
         "name": "Biblioteca Ramon d'Al\u00f2s - Moner",
         "lat": 41.41634060802333,
         "lon": 2.211500229848388,
+        "address": "Rbla Prim 87 (08019)"
+    },
+    {
+        "name": "Centre de Serveis Socials Bes\u00f2s",
+        "lat": 41.416517694682675,
+        "lon": 2.211829061347205,
         "address": "Rbla Prim 87 (08019)"
     },
     {
