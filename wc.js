@@ -552,15 +552,15 @@ var wc_barcelona_data = [
         "address": "Carrer dels \u00c0ngels 24 (08001)"
     },
     {
-        "name": "Biblioteca G\u00f2tic - Andreu Nin",
-        "lat": 41.37848959636991,
-        "lon": 2.176064541270459,
-        "address": "Carrer la Rambla 30 (08002)"
-    },
-    {
         "name": "Pla\u00e7a del Teatre",
         "lat": 41.37846695509569,
         "lon": 2.176049425842645,
+        "address": "Carrer la Rambla 30 (08002)"
+    },
+    {
+        "name": "Biblioteca G\u00f2tic - Andreu Nin",
+        "lat": 41.37848959636991,
+        "lon": 2.176064541270459,
         "address": "Carrer la Rambla 30 (08002)"
     },
     {
