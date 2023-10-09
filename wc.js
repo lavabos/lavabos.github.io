@@ -909,15 +909,15 @@ var wc_barcelona_data = [
         "address": "Ptge Vapor Vell 1 (08028)"
     },
     {
-        "name": "Centre de Serveis Socials Bes\u00f2s",
-        "lat": 41.416517694682675,
-        "lon": 2.211829061347205,
-        "address": "Rbla Prim 87 (08019)"
-    },
-    {
         "name": "Biblioteca Ramon d'Al\u00f2s - Moner",
         "lat": 41.41634060802333,
         "lon": 2.211500229848388,
+        "address": "Rbla Prim 87 (08019)"
+    },
+    {
+        "name": "Centre de Serveis Socials Bes\u00f2s",
+        "lat": 41.416517694682675,
+        "lon": 2.211829061347205,
         "address": "Rbla Prim 87 (08019)"
     },
     {
