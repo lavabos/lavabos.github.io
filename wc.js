@@ -25,7 +25,7 @@ var wc_barcelona_data = [
     },
     {
         "name": "Parc del Poblenou",
-        "lat": 41.39600115472329,
+        "lat": 41.39600115472328,
         "lon": 2.2048312863454527,
         "address": "Av Litoral 59 (08005)"
     },
@@ -49,32 +49,32 @@ var wc_barcelona_data = [
     },
     {
         "name": " Avinguda de l\u00ada Catedral",
-        "lat": 41.38523497548023,
+        "lat": 41.38523497548024,
         "lon": 2.1761845327386324,
         "address": "Avinguda de la Catedral 9 (08002)"
     },
     {
         "name": "Avinguda Drassanes \/ Cervell\u00f3",
         "lat": 41.37648362986496,
-        "lon": 2.1750847449696056,
+        "lon": 2.175084744969605,
         "address": "Avinguda de les Drassanes 6 (08001)"
     },
     {
         "name": "Biblioteca Xavier Benguerel",
-        "lat": 41.39243891008078,
+        "lat": 41.39243891008077,
         "lon": 2.1977274463120198,
         "address": "Avinguda del Bogatell 17 (08005)"
     },
     {
         "name": "Jardins de la Rambla de Sants",
-        "lat": 41.37088899407407,
-        "lon": 2.131239866982917,
+        "lat": 41.37088899407408,
+        "lon": 2.1312398669829165,
         "address": "C Antoni de Capmany 48 (08014)"
     },
     {
         "name": "Parc de Joan Mir\u00f3",
         "lat": 41.37736859072251,
-        "lon": 2.147456062468237,
+        "lon": 2.1474560624682373,
         "address": "C Arag\u00f3 2 (08015)"
     },
     {
@@ -86,43 +86,43 @@ var wc_barcelona_data = [
     {
         "name": "Biblioteca Poble-sec - Francesc Boix",
         "lat": 41.37395336575018,
-        "lon": 2.164042903949161,
+        "lon": 2.1640429039491607,
         "address": "C Blai 34 (08004)"
     },
     {
         "name": "Centre de Serveis Socials Camp d'en Grassot - Gr\u00e0cia Nova",
         "lat": 41.40710409732481,
-        "lon": 2.163009672980925,
+        "lon": 2.1630096729809245,
         "address": "C Ca l'Alegre de Dalt 5 (08024)"
     },
     {
         "name": "Centre de Serveis Socials Sant Antoni",
-        "lat": 41.37668198740928,
+        "lat": 41.376681987409285,
         "lon": 2.1592642982298043,
         "address": "C Cal\u00e0bria 38 (08015)"
     },
     {
         "name": "Centre de Serveis Socials Les Corts",
-        "lat": 41.383991931904006,
+        "lat": 41.38399193190401,
         "lon": 2.1314953916183184,
         "address": "C Can Bruixa 7 (08028)"
     },
     {
         "name": "Jardins de Can Sentmenat",
         "lat": 41.40262028359711,
-        "lon": 2.1151022927218386,
+        "lon": 2.115102292721839,
         "address": "C Can Caralleu 6 (08017)"
     },
     {
         "name": "Biblioteca Sant Pau - Santa Creu",
         "lat": 41.38152415484547,
-        "lon": 2.1689750563884256,
+        "lon": 2.168975056388426,
         "address": "C Carme 47 (08001)"
     },
     {
         "name": "Centre de Serveis Socials Nova Esquerra de l'Eixample",
-        "lat": 41.38951014232081,
-        "lon": 2.1464023771740086,
+        "lat": 41.3895101423208,
+        "lon": 2.146402377174009,
         "address": "C Comte Borrell 305 (08029)"
     },
     {
@@ -145,7 +145,7 @@ var wc_barcelona_data = [
     },
     {
         "name": "Mercat d'Hostafrancs",
-        "lat": 41.37516972189747,
+        "lat": 41.375169721897464,
         "lon": 2.143850366808257,
         "address": "C Creu Coberta 93 (08014)"
     },
@@ -157,7 +157,7 @@ var wc_barcelona_data = [
     },
     {
         "name": "Centre de Serveis Socials Franja Bes\u00f2s",
-        "lat": 41.43520243108136,
+        "lat": 41.435202431081365,
         "lon": 2.2046805945001373,
         "address": "C Estadella 64 (08030)"
     },
@@ -188,7 +188,7 @@ var wc_barcelona_data = [
     {
         "name": "Biblioteca Poblenou - Manuel Arranz",
         "lat": 41.40140488846787,
-        "lon": 2.2045428799607123,
+        "lon": 2.204542879960712,
         "address": "C Joncar 35 (08005)"
     },
     {
@@ -205,14 +205,14 @@ var wc_barcelona_data = [
     },
     {
         "name": "Mercat del Ninot",
-        "lat": 41.38785620518939,
+        "lat": 41.387856205189394,
         "lon": 2.15441636126121,
         "address": "C Mallorca 133 (08036)"
     },
     {
         "name": "Centre de Serveis Socials Antiga Esquerra de l'Eixample",
         "lat": 41.39123820926901,
-        "lon": 2.158894363337719,
+        "lon": 2.1588943633377187,
         "address": "C Mallorca 219 (08008)"
     },
     {
@@ -229,14 +229,14 @@ var wc_barcelona_data = [
     },
     {
         "name": "Jardins del  Baix Guinard\u00f3",
-        "lat": 41.409778507236084,
-        "lon": 2.1686584215423337,
+        "lat": 41.40977850723608,
+        "lon": 2.168658421542334,
         "address": "C Marina 372 (08025)"
     },
     {
         "name": "Mercat de Proven\u00e7als",
         "lat": 41.41945927461574,
-        "lon": 2.196489178974615,
+        "lon": 2.1964891789746144,
         "address": "C Menorca 19 (08020)"
     },
     {
@@ -254,12 +254,12 @@ var wc_barcelona_data = [
     {
         "name": "Park G\u00fcell",
         "lat": 41.41350924872243,
-        "lon": 2.1531271963876573,
+        "lon": 2.1531271963876577,
         "address": "C Olot 7 (08024)"
     },
     {
         "name": "Centre de Serveis Socials Sant Andreu",
-        "lat": 41.437176254125326,
+        "lat": 41.43717625412532,
         "lon": 2.191997509185676,
         "address": "C Paixalet 2 (08030)"
     },
@@ -295,13 +295,13 @@ var wc_barcelona_data = [
     },
     {
         "name": "Centre de Serveis Socials Sarri\u00e0",
-        "lat": 41.39930554338698,
+        "lat": 41.39930554338697,
         "lon": 2.1226774786461458,
         "address": "C Salvador Mund\u00ed 4 (08017)"
     },
     {
         "name": "Mercat del Bon Pastor",
-        "lat": 41.43601348746425,
+        "lat": 41.43601348746426,
         "lon": 2.206172152917636,
         "address": "C Sant Adri\u00e0 154 (08030)"
     },
@@ -313,7 +313,7 @@ var wc_barcelona_data = [
     },
     {
         "name": "Mercat de Sants",
-        "lat": 41.37474264809827,
+        "lat": 41.37474264809826,
         "lon": 2.133755927782789,
         "address": "C Sant Jordi 6 (08028)"
     },
@@ -344,12 +344,12 @@ var wc_barcelona_data = [
     {
         "name": "Centre de Serveis Socials Porta-Vilapicina i Torrellobeta",
         "lat": 41.43586918902766,
-        "lon": 2.1755828488388005,
+        "lon": 2.1755828488388,
         "address": "C Selva 57 (08016)"
     },
     {
         "name": "Centre de Serveis Socials Tur\u00f3 de la Peira-Can Peguera",
-        "lat": 41.43569748179724,
+        "lat": 41.43569748179725,
         "lon": 2.175462180954768,
         "address": "C Selva 61 (08016)"
     },
@@ -361,7 +361,7 @@ var wc_barcelona_data = [
     },
     {
         "name": "Quiosc Bar Passeig dels Cims",
-        "lat": 41.36613311972901,
+        "lat": 41.366133119729014,
         "lon": 2.1669125527669526,
         "address": "C Tarongers 10 (08038)"
     },
@@ -397,7 +397,7 @@ var wc_barcelona_data = [
     },
     {
         "name": "Centre de Serveis Socials Roquetes-Trinitat Nova-Canyelles",
-        "lat": 41.44798254311848,
+        "lat": 41.44798254311847,
         "lon": 2.1764761594416306,
         "address": "C Vidal i Guasch 76 (08042)"
     },
@@ -415,20 +415,20 @@ var wc_barcelona_data = [
     },
     {
         "name": "Biblioteca Bon Pastor",
-        "lat": 41.435195225351784,
+        "lat": 41.43519522535179,
         "lon": 2.204676708689729,
         "address": "Carrer d'Estadella 64 (08030)"
     },
     {
         "name": "Pla\u00e7a Salvador Segu\u00ed",
-        "lat": 41.37876674305182,
+        "lat": 41.37876674305181,
         "lon": 2.171476843089951,
         "address": "Carrer d'en Robador 53 (08001)"
     },
     {
         "name": "Biblioteca Barceloneta - La Fraternitat",
         "lat": 41.37923196366579,
-        "lon": 2.188882052796521,
+        "lon": 2.1888820527965205,
         "address": "Carrer de Fel\u00edcia Fuster i Viladecans 8 (08003)"
     },
     {
@@ -445,14 +445,14 @@ var wc_barcelona_data = [
     },
     {
         "name": "Biblioteca Francesca Bonnemaison",
-        "lat": 41.38696803670604,
-        "lon": 2.1758076071586703,
+        "lat": 41.38696803670603,
+        "lon": 2.17580760715867,
         "address": "Carrer de Sant Pere M\u00e9s Baix 7 (08003)"
     },
     {
         "name": "Biblioteca Joan Mir\u00f3",
         "lat": 41.37884820283017,
-        "lon": 2.149248360001305,
+        "lon": 2.1492483600013053,
         "address": "Carrer de Vilamar\u00ed 61 (08015)"
     },
     {
@@ -470,12 +470,12 @@ var wc_barcelona_data = [
     {
         "name": "Biblioteca Camp de l'Arpa - Caterina Albert",
         "lat": 41.415797406903124,
-        "lon": 2.1822980548020485,
+        "lon": 2.182298054802049,
         "address": "Carrer de la Ind\u00fastria 295 (08041)"
     },
     {
         "name": "Biblioteca El Carmel - Juan Mars\u00e9",
-        "lat": 41.42102779561163,
+        "lat": 41.42102779561162,
         "lon": 2.1551159636410184,
         "address": "Carrer de la Murtra 135 (08032)"
     },
@@ -487,25 +487,25 @@ var wc_barcelona_data = [
     },
     {
         "name": "Biblioteca Guinard\u00f3 - Merc\u00e8 Rodoreda",
-        "lat": 41.41434434997389,
+        "lat": 41.41434434997388,
         "lon": 2.165335563039016,
         "address": "Carrer de les Cam\u00e8lies 76 (08024)"
     },
     {
         "name": "Jardins de Sant Pau del Camp",
-        "lat": 41.37624035074008,
+        "lat": 41.37624035074009,
         "lon": 2.1707556761197995,
         "address": "Carrer de les T\u00e0pies 9 (08001)"
     },
     {
         "name": "Mercat Encants Vells Fira de Bellcaire",
         "lat": 41.40146954589002,
-        "lon": 2.1852006706279634,
+        "lon": 2.185200670627963,
         "address": "Carrer de los Castillejos 158 (08018)"
     },
     {
         "name": "Biblioteca de l'Eixample - Agust\u00ed Centelles",
-        "lat": 41.38689535147526,
+        "lat": 41.38689535147527,
         "lon": 2.152049712385728,
         "address": "Carrer del Comte d'Urgell 145 (08036)"
     },
@@ -529,25 +529,25 @@ var wc_barcelona_data = [
     },
     {
         "name": "Biblioteca Horta - Can Mariner",
-        "lat": 41.43113637814167,
+        "lat": 41.43113637814168,
         "lon": 2.1607509372572986,
         "address": "Carrer del Vent 1 (08031)"
     },
     {
         "name": "Biblioteca Montserrat Abell\u00f3",
         "lat": 41.38373133027636,
-        "lon": 2.1353058454350444,
+        "lon": 2.135305845435044,
         "address": "Carrer dels Comtes de Bell-lloc 192 (08014)"
     },
     {
         "name": "Platja de Sant Miquel",
-        "lat": 41.37590298191462,
+        "lat": 41.375902981914614,
         "lon": 2.1899823756520678,
         "address": "Carrer dels Pescadors 92 (08003)"
     },
     {
         "name": "Pla\u00e7a dels \u00c0ngels",
-        "lat": 41.38275718430345,
+        "lat": 41.38275718430346,
         "lon": 2.1678757923904177,
         "address": "Carrer dels \u00c0ngels 24 (08001)"
     },
@@ -601,14 +601,14 @@ var wc_barcelona_data = [
     },
     {
         "name": "Platja de la Barceloneta",
-        "lat": 41.37858632708024,
+        "lat": 41.37858632708025,
         "lon": 2.192198017178552,
         "address": "Passeig Mar\u00edtim de la Barceloneta - Oriol Bohigas 14 (08003)"
     },
     {
         "name": "Parc de la Barceloneta",
         "lat": 41.38295492977149,
-        "lon": 2.1922718564968324,
+        "lon": 2.192271856496833,
         "address": "Passeig Mar\u00edtim de la Barceloneta - Oriol Bohigas 15 (08003)"
     },
     {
@@ -619,19 +619,19 @@ var wc_barcelona_data = [
     },
     {
         "name": "Passeig Mar\u00edtim",
-        "lat": 41.38346152967781,
-        "lon": 2.1952328977717435,
+        "lat": 41.38346152967782,
+        "lon": 2.195232897771743,
         "address": "Passeig Mar\u00edtim de la Barceloneta - Oriol Bohigas 30 (08003)"
     },
     {
         "name": "Platja del Somorrostro",
-        "lat": 41.38344129082396,
+        "lat": 41.38344129082397,
         "lon": 2.1951939776986724,
         "address": "Passeig Mar\u00edtim de la Barceloneta - Oriol Bohigas 32 (08003)"
     },
     {
         "name": "Platja del Somorrostro",
-        "lat": 41.385995362641346,
+        "lat": 41.38599536264135,
         "lon": 2.197179405787457,
         "address": "Passeig Mar\u00edtim de la Barceloneta - Oriol Bohigas 51 (08003)"
     },
@@ -643,8 +643,8 @@ var wc_barcelona_data = [
     },
     {
         "name": "Platja de Sant Sebasti\u00e0",
-        "lat": 41.369253197800674,
-        "lon": 2.1888730422506835,
+        "lat": 41.36925319780068,
+        "lon": 2.188873042250683,
         "address": "Passeig del Mare Nostrum 0 (08039)"
     },
     {
@@ -667,7 +667,7 @@ var wc_barcelona_data = [
     },
     {
         "name": "Parc de la Creueta del Coll",
-        "lat": 41.420463543312195,
+        "lat": 41.4204635433122,
         "lon": 2.149081749832279,
         "address": "Pg Mare de D\u00e9u del Coll 77 (08023)"
     },
@@ -685,7 +685,7 @@ var wc_barcelona_data = [
     },
     {
         "name": "Parc de la Trinitat",
-        "lat": 41.44926882521931,
+        "lat": 41.449268825219306,
         "lon": 2.1956548753915466,
         "address": "Pg Santa Coloma 60 (08030)"
     },
@@ -703,7 +703,7 @@ var wc_barcelona_data = [
     },
     {
         "name": "Biblioteca Vallcarca i els Penitents - M. Antonieta Cot",
-        "lat": 41.420039115771104,
+        "lat": 41.42003911577112,
         "lon": 2.13967498940329,
         "address": "Pg Vall d'Hebron 65 (08000)"
     },
@@ -757,7 +757,7 @@ var wc_barcelona_data = [
     {
         "name": "Mercat del Fort Pienc",
         "lat": 41.39593945700507,
-        "lon": 2.1824301808709805,
+        "lon": 2.18243018087098,
         "address": "Pl Fort Pienc 3 (08013)"
     },
     {
@@ -774,25 +774,25 @@ var wc_barcelona_data = [
     {
         "name": "Centre de Serveis Socials Poblenou",
         "lat": 41.4036847964897,
-        "lon": 2.2004984406892265,
+        "lon": 2.200498440689227,
         "address": "Pl Josep M. Huertas Claveria 1 (08005)"
     },
     {
         "name": "Consell Municipal del Districte de Sant Andreu",
-        "lat": 41.43591834121142,
+        "lat": 41.43591834121141,
         "lon": 2.1907225177111402,
         "address": "Pl Orfila 1 (08030)"
     },
     {
         "name": "Pla\u00e7a del Poeta Bosc\u00e0",
-        "lat": 41.38024616800818,
+        "lat": 41.38024616800817,
         "lon": 2.18928120267198,
         "address": "Pl Poeta Bosc\u00e0 1 (08003)"
     },
     {
         "name": "Pla\u00e7a Sant Agust\u00ed",
         "lat": 41.38063232697536,
-        "lon": 2.1718294900353925,
+        "lon": 2.171829490035392,
         "address": "Pl Sant Agust\u00ed 2 (08001)"
     },
     {
@@ -810,12 +810,12 @@ var wc_barcelona_data = [
     {
         "name": "Mercat del Poblenou",
         "lat": 41.40102650191633,
-        "lon": 2.2054366631788116,
+        "lon": 2.205436663178811,
         "address": "Pl Uni\u00f3 25 (08005)"
     },
     {
         "name": "Consell Municipal del Districte de Sant Mart\u00ed",
-        "lat": 41.40894397441461,
+        "lat": 41.40894397441462,
         "lon": 2.192002772934604,
         "address": "Pl Valent\u00ed Almirall 1 (08018)"
     },
@@ -832,8 +832,8 @@ var wc_barcelona_data = [
         "address": "Pl Vila de Gr\u00e0cia 2 (08012)"
     },
     {
-        "lat": 41.38295995250516,
-        "lon": 2.1830646632985733,
+        "lat": 41.38295995250515,
+        "lon": 2.1830646632985737,
         "address": "Pla Palau 2 (08003)"
     },
     {
@@ -844,8 +844,8 @@ var wc_barcelona_data = [
     },
     {
         "name": "Placeta Vicen\u00e7 Albert Ballester",
-        "lat": 41.38938431879236,
-        "lon": 2.181572484472217,
+        "lat": 41.38938431879235,
+        "lon": 2.1815724844722175,
         "address": "Placeta de Vicen\u00e7 Albert Ballester 0 (08003)"
     },
     {
@@ -868,7 +868,7 @@ var wc_barcelona_data = [
     },
     {
         "name": "Biblioteca Jaume Fuster",
-        "lat": 41.40749096939712,
+        "lat": 41.407490969397124,
         "lon": 2.149775202551298,
         "address": "Pla\u00e7a de Lesseps 20 (08023)"
     },
@@ -880,7 +880,7 @@ var wc_barcelona_data = [
     },
     {
         "name": "Biblioteca El Clot - Josep Benet",
-        "lat": 41.40260111169283,
+        "lat": 41.402601111692825,
         "lon": 2.1880498461023428,
         "address": "Pla\u00e7a de les Gl\u00f2ries Catalanes 37 (08038)"
     },
@@ -892,21 +892,27 @@ var wc_barcelona_data = [
     },
     {
         "name": "Platja de Sant Miquel",
-        "lat": 41.375290797256596,
+        "lat": 41.37529079725659,
         "lon": 2.189505706666153,
         "address": "Pla\u00e7a del Mar 1 (08003)"
     },
     {
         "name": "Mercat de Sant Andreu",
-        "lat": 41.43489312913731,
+        "lat": 41.434893129137315,
         "lon": 2.1883934902332927,
         "address": "Pla\u00e7a del Mercadal 41 (08030)"
     },
     {
         "name": "Biblioteca Vapor Vell",
-        "lat": 41.376928596666524,
+        "lat": 41.37692859666653,
         "lon": 2.134751788846474,
         "address": "Ptge Vapor Vell 1 (08028)"
+    },
+    {
+        "name": "Centre de Serveis Socials Bes\u00f2s",
+        "lat": 41.41651769468268,
+        "lon": 2.211829061347205,
+        "address": "Rbla Prim 87 (08019)"
     },
     {
         "name": "Biblioteca Ramon d'Al\u00f2s - Moner",
@@ -915,32 +921,26 @@ var wc_barcelona_data = [
         "address": "Rbla Prim 87 (08019)"
     },
     {
-        "name": "Centre de Serveis Socials Bes\u00f2s",
-        "lat": 41.416517694682675,
-        "lon": 2.211829061347205,
-        "address": "Rbla Prim 87 (08019)"
-    },
-    {
         "name": "Rambla del Raval",
-        "lat": 41.37902395648098,
+        "lat": 41.379023956480985,
         "lon": 2.1694833518924233,
         "address": "Rbla Raval 17 (08001)"
     },
     {
         "name": "Centre de Serveis Socials Guinard\u00f3",
         "lat": 41.41610799335015,
-        "lon": 2.1733783934174653,
+        "lon": 2.173378393417465,
         "address": "Rda Guinard\u00f3 113 (08041)"
     },
     {
         "name": "Consell Municipal del Districte d'Horta - Guinard\u00f3",
-        "lat": 41.412795224692346,
+        "lat": 41.41279522469234,
         "lon": 2.1664773596726428,
         "address": "Rda Guinard\u00f3 49 (08024)"
     },
     {
         "name": "Biblioteca Canyelles",
-        "lat": 41.44380423947469,
+        "lat": 41.44380423947468,
         "lon": 2.1643398502586457,
         "address": "Ronda de la Guineueta Vella 34 (08042)"
     },
