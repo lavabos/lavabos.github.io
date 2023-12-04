@@ -354,12 +354,6 @@ var wc_barcelona_data = [
         "address": "C Selva 61 (08016)"
     },
     {
-        "name": "Mercat d'Horta",
-        "lat": 41.42962884747036,
-        "lon": 2.159612517726946,
-        "address": "C Tajo 75 (08032)"
-    },
-    {
         "name": "Quiosc Bar Passeig dels Cims",
         "lat": 41.366133119729014,
         "lon": 2.1669125527669526,
@@ -436,6 +430,12 @@ var wc_barcelona_data = [
         "lat": 41.425646108743635,
         "lon": 2.193744428022945,
         "address": "Carrer de Josep Soldevila 9 (08027)"
+    },
+    {
+        "name": "Mercat d'Horta",
+        "lat": 41.42921857676913,
+        "lon": 2.1573096628601407,
+        "address": "Carrer de Lisboa 34 (08032)"
     },
     {
         "name": "Platja de Sant Miquel",
@@ -552,15 +552,15 @@ var wc_barcelona_data = [
         "address": "Carrer dels \u00c0ngels 24 (08001)"
     },
     {
-        "name": "Biblioteca G\u00f2tic - Andreu Nin",
-        "lat": 41.37848959636991,
-        "lon": 2.176064541270459,
-        "address": "Carrer la Rambla 30 (08002)"
-    },
-    {
         "name": "Pla\u00e7a del Teatre",
         "lat": 41.37846695509569,
         "lon": 2.176049425842645,
+        "address": "Carrer la Rambla 30 (08002)"
+    },
+    {
+        "name": "Biblioteca G\u00f2tic - Andreu Nin",
+        "lat": 41.37848959636991,
+        "lon": 2.176064541270459,
         "address": "Carrer la Rambla 30 (08002)"
     },
     {
