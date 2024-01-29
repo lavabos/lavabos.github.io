@@ -820,13 +820,13 @@ var wc_barcelona_data = [
         "address": "Pl Valent\u00ed Almirall 1 (08018)"
     },
     {
-        "name": "Consell Municipal del Districte de Gr\u00e0cia",
+        "name": "Centre de Serveis Socials La Vila de Gr\u00e0cia",
         "lat": 41.40000221717518,
         "lon": 2.1578611686847617,
         "address": "Pl Vila de Gr\u00e0cia 2 (08012)"
     },
     {
-        "name": "Centre de Serveis Socials La Vila de Gr\u00e0cia",
+        "name": "Consell Municipal del Districte de Gr\u00e0cia",
         "lat": 41.40000221717518,
         "lon": 2.1578611686847617,
         "address": "Pl Vila de Gr\u00e0cia 2 (08012)"
