@@ -879,6 +879,12 @@ var wc_barcelona_data = [
         "address": "Pla\u00e7a de Sonia Rescalvo Zafra 0 (08003)"
     },
     {
+        "name": "Pla\u00e7a de les Dones del 36",
+        "lat": null,
+        "lon": null,
+        "address": "Pla\u00e7a de les Dones del 36 0 (08012)"
+    },
+    {
         "name": "Biblioteca El Clot - Josep Benet",
         "lat": null,
         "lon": null,
