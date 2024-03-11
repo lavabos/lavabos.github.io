@@ -552,13 +552,13 @@ var wc_barcelona_data = [
         "address": "Carrer dels \u00c0ngels 24 (08001)"
     },
     {
-        "name": "Pla\u00e7a del Teatre",
+        "name": "Biblioteca G\u00f2tic - Andreu Nin",
         "lat": null,
         "lon": null,
         "address": "Carrer la Rambla 30 (08002)"
     },
     {
-        "name": "Biblioteca G\u00f2tic - Andreu Nin",
+        "name": "Pla\u00e7a del Teatre",
         "lat": null,
         "lon": null,
         "address": "Carrer la Rambla 30 (08002)"
@@ -820,13 +820,13 @@ var wc_barcelona_data = [
         "address": "Pl Valent\u00ed Almirall 1 (08018)"
     },
     {
-        "name": "Centre de Serveis Socials La Vila de Gr\u00e0cia",
+        "name": "Consell Municipal del Districte de Gr\u00e0cia",
         "lat": null,
         "lon": null,
         "address": "Pl Vila de Gr\u00e0cia 2 (08012)"
     },
     {
-        "name": "Consell Municipal del Districte de Gr\u00e0cia",
+        "name": "Centre de Serveis Socials La Vila de Gr\u00e0cia",
         "lat": null,
         "lon": null,
         "address": "Pl Vila de Gr\u00e0cia 2 (08012)"
@@ -915,13 +915,13 @@ var wc_barcelona_data = [
         "address": "Ptge Vapor Vell 1 (08028)"
     },
     {
-        "name": "Biblioteca Ramon d'Al\u00f2s - Moner",
+        "name": "Centre de Serveis Socials Bes\u00f2s",
         "lat": null,
         "lon": null,
         "address": "Rbla Prim 87 (08019)"
     },
     {
-        "name": "Centre de Serveis Socials Bes\u00f2s",
+        "name": "Biblioteca Ramon d'Al\u00f2s - Moner",
         "lat": null,
         "lon": null,
         "address": "Rbla Prim 87 (08019)"
