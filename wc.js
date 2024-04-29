@@ -468,6 +468,12 @@ var wc_barcelona_data = [
         "address": "Carrer de l'Arquitectura 8 (08035)"
     },
     {
+        "name": " c. Atl\u00e0ntida",
+        "lat": null,
+        "lon": null,
+        "address": "Carrer de l'Atl\u00e0ntida 82 (08003)"
+    },
+    {
         "name": "Biblioteca Camp de l'Arpa - Caterina Albert",
         "lat": null,
         "lon": null,
@@ -552,13 +558,13 @@ var wc_barcelona_data = [
         "address": "Carrer dels \u00c0ngels 24 (08001)"
     },
     {
-        "name": "Biblioteca G\u00f2tic - Andreu Nin",
+        "name": "Pla\u00e7a del Teatre",
         "lat": null,
         "lon": null,
         "address": "Carrer la Rambla 30 (08002)"
     },
     {
-        "name": "Pla\u00e7a del Teatre",
+        "name": "Biblioteca G\u00f2tic - Andreu Nin",
         "lat": null,
         "lon": null,
         "address": "Carrer la Rambla 30 (08002)"
@@ -634,6 +640,12 @@ var wc_barcelona_data = [
         "lat": null,
         "lon": null,
         "address": "Passeig Mar\u00edtim de la Barceloneta - Oriol Bohigas 51 (08003)"
+    },
+    {
+        "name": " Passeig Joan de Borb\u00f3",
+        "lat": null,
+        "lon": null,
+        "address": "Passeig de Joan de Borb\u00f3 Comte de Barcelona 70 (08003)"
     },
     {
         "name": "Porta Acc\u00e9s Parc de la Ciutadella - Zoo",
@@ -820,13 +832,13 @@ var wc_barcelona_data = [
         "address": "Pl Valent\u00ed Almirall 1 (08018)"
     },
     {
-        "name": "Centre de Serveis Socials La Vila de Gr\u00e0cia",
+        "name": "Consell Municipal del Districte de Gr\u00e0cia",
         "lat": null,
         "lon": null,
         "address": "Pl Vila de Gr\u00e0cia 2 (08012)"
     },
     {
-        "name": "Consell Municipal del Districte de Gr\u00e0cia",
+        "name": "Centre de Serveis Socials La Vila de Gr\u00e0cia",
         "lat": null,
         "lon": null,
         "address": "Pl Vila de Gr\u00e0cia 2 (08012)"
@@ -907,6 +919,12 @@ var wc_barcelona_data = [
         "lat": null,
         "lon": null,
         "address": "Pla\u00e7a del Mercadal 41 (08030)"
+    },
+    {
+        "name": "  Pla\u00e7a Poeta Bosc\u00e0",
+        "lat": null,
+        "lon": null,
+        "address": "Pla\u00e7a del Poeta Bosc\u00e0 1 (08003)"
     },
     {
         "name": "Biblioteca Vapor Vell",
