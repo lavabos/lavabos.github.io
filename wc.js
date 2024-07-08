@@ -408,7 +408,7 @@ var wc_barcelona_data = [
         "address": "Carrer d'Elisa Moragas i Badia 16 (08017)"
     },
     {
-        "name": "Biblioteca Bon Pastor",
+        "name": "Biblioteca Bon Pastor - Josefina Castellv\u00ed",
         "lat": null,
         "lon": null,
         "address": "Carrer d'Estadella 64 (08030)"
@@ -558,13 +558,13 @@ var wc_barcelona_data = [
         "address": "Carrer dels \u00c0ngels 24 (08001)"
     },
     {
-        "name": "Biblioteca G\u00f2tic - Andreu Nin",
+        "name": "Pla\u00e7a del Teatre",
         "lat": null,
         "lon": null,
         "address": "Carrer la Rambla 30 (08002)"
     },
     {
-        "name": "Pla\u00e7a del Teatre",
+        "name": "Biblioteca G\u00f2tic - Andreu Nin",
         "lat": null,
         "lon": null,
         "address": "Carrer la Rambla 30 (08002)"
@@ -832,13 +832,13 @@ var wc_barcelona_data = [
         "address": "Pl Valent\u00ed Almirall 1 (08018)"
     },
     {
-        "name": "Centre de Serveis Socials La Vila de Gr\u00e0cia",
+        "name": "Consell Municipal del Districte de Gr\u00e0cia",
         "lat": null,
         "lon": null,
         "address": "Pl Vila de Gr\u00e0cia 2 (08012)"
     },
     {
-        "name": "Consell Municipal del Districte de Gr\u00e0cia",
+        "name": "Centre de Serveis Socials La Vila de Gr\u00e0cia",
         "lat": null,
         "lon": null,
         "address": "Pl Vila de Gr\u00e0cia 2 (08012)"
