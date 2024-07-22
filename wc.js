@@ -832,13 +832,13 @@ var wc_barcelona_data = [
         "address": "Pl Valent\u00ed Almirall 1 (08018)"
     },
     {
-        "name": "Centre de Serveis Socials La Vila de Gr\u00e0cia",
+        "name": "Consell Municipal del Districte de Gr\u00e0cia",
         "lat": null,
         "lon": null,
         "address": "Pl Vila de Gr\u00e0cia 2 (08012)"
     },
     {
-        "name": "Consell Municipal del Districte de Gr\u00e0cia",
+        "name": "Centre de Serveis Socials La Vila de Gr\u00e0cia",
         "lat": null,
         "lon": null,
         "address": "Pl Vila de Gr\u00e0cia 2 (08012)"
@@ -933,13 +933,13 @@ var wc_barcelona_data = [
         "address": "Ptge Vapor Vell 1 (08028)"
     },
     {
-        "name": "Centre de Serveis Socials Bes\u00f2s",
+        "name": "Biblioteca Ramon d'Al\u00f2s - Moner",
         "lat": null,
         "lon": null,
         "address": "Rbla Prim 87 (08019)"
     },
     {
-        "name": "Biblioteca Ramon d'Al\u00f2s - Moner",
+        "name": "Centre de Serveis Socials Bes\u00f2s",
         "lat": null,
         "lon": null,
         "address": "Rbla Prim 87 (08019)"
