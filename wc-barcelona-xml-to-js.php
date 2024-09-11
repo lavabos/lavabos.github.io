@@ -13,7 +13,7 @@ $listOfPublicWcs = [];
 
 foreach ($wcData as $key => $wc) {
     $name = $wc['name'];
-    
+
     // Get the WC name
     if (str_starts_with($name, 'WC Públic *')) {
         $listOfPublicWcs[$key]['name'] = substr($name, strlen('WC Públic *'));
@@ -22,19 +22,19 @@ foreach ($wcData as $key => $wc) {
     }
 
     // Prioritize using googleMaps coordinates if available
-    $coordinates = $wc['geo_epgs_4326'];
     $googleMaps = $wc['googleMaps'] ?? null;
+    $coordinates = $wc['geo_epgs_4326'] ?? null;
 
     if ($googleMaps !== null && isset($googleMaps['lat'], $googleMaps['lon'])) {
         $listOfPublicWcs[$key]['lat'] = $googleMaps['lat'];
         $listOfPublicWcs[$key]['lon'] = $googleMaps['lon'];
-    } elseif (isset($coordinates['x'], $coordinates['y'])) {
+    } elseif ($coordinates !== null && isset($coordinates['x'], $coordinates['y'])) {
         // Fallback to geo_epgs_4326 if googleMaps is not available
         $listOfPublicWcs[$key]['lat'] = $coordinates['x'];
         $listOfPublicWcs[$key]['lon'] = $coordinates['y'];
     } else {
         // Skip this entry if neither googleMaps nor geo_epgs_4326 coordinates are available. geo_epgs_4326 was the working key, and it worked for months. https://x.com/Angela_OrFe/status/1795121198700855640 warned us that the map wasn't working anymore, so we saw that Ajuntament de Barcelona changed the XML structure. Just in case they revert back to the previous way of doing things, we keep the logic here as a fallback. 
-        continue;
+            continue;
     }
 
     // Get the WC address
