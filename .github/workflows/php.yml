@@ -21,7 +21,7 @@ jobs:
     - name: Commit and push
       if: github.event_name == 'schedule'
       run: |
-        if [ ! "$(git status --porcelain | grep wc.js)" ]; then
+        if [ false ]; then
           echo "No changes to commit"
           exit 0
         fi
