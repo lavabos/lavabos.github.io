@@ -12,13 +12,19 @@ $wcData = json_decode($wcJson, true);
 $listOfPublicWcs = [];
 
 foreach ($wcData as $key => $wc) {
-    $name = $wc['name'];
-
-    // Get the WC name
-    if (str_starts_with($name, 'WC Públic *')) {
+    $name = $wc['name'] ?? null;
+    
+    // Get the WC name with multiple fallbacks
+    if ($name && str_starts_with($name, 'WC Públic *')) {
         $listOfPublicWcs[$key]['name'] = substr($name, strlen('WC Públic *'));
-    } elseif ($wc['is_section_of_data'] !== null) {
+    } elseif (isset($wc['is_section_of_data']['name'])) {
         $listOfPublicWcs[$key]['name'] = $wc['is_section_of_data']['name'];
+    } elseif (isset($wc['nom'])) {
+        $listOfPublicWcs[$key]['name'] = $wc['nom']; // Fallback to 'nom' tag
+    } elseif (isset($wc['seccio'])) {
+        $listOfPublicWcs[$key]['name'] = $wc['seccio']; // Fallback to 'seccio' tag
+    } else {
+        $listOfPublicWcs[$key]['name'] = 'Unnamed WC'; // Final fallback in case no name is found
     }
 
     // Prioritize using googleMaps coordinates if available
@@ -34,7 +40,7 @@ foreach ($wcData as $key => $wc) {
         $listOfPublicWcs[$key]['lon'] = $coordinates['y'];
     } else {
         // Skip this entry if neither googleMaps nor geo_epgs_4326 coordinates are available. geo_epgs_4326 was the working key, and it worked for months. https://x.com/Angela_OrFe/status/1795121198700855640 warned us that the map wasn't working anymore, so we saw that Ajuntament de Barcelona changed the XML structure. Just in case they revert back to the previous way of doing things, we keep the logic here as a fallback. 
-            continue;
+        continue;
     }
 
     // Get the WC address
@@ -68,3 +74,4 @@ $indexHtml = preg_replace('/var revision = .+?;/s', "var revision = '" . date('d
 file_put_contents('index.html', $indexHtml);
 
 echo "Process completed.\n";
+
