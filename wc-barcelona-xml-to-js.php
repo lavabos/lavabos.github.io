@@ -17,63 +17,63 @@ if (json_last_error() !== JSON_ERROR_NONE) {
 
 $listOfPublicWcs = [];
 
-if (isset($wcData['equipaments']['equipament']) && !empty($wcData['equipaments']['equipament'])) {
-    foreach ($wcData['equipaments']['equipament'] as $key => $wc) {
-        $name = isset($wc['nom']) ? $wc['nom'] : null;
-
-        // Get the WC name with multiple fallbacks
-        if ($name && str_starts_with($name, 'WC Públic *')) {
-            $listOfPublicWcs[$key]['name'] = substr($name, strlen('WC Públic *'));
-        } elseif (!empty($wc['is_section_of_data']['name'])) {
-            $listOfPublicWcs[$key]['name'] = $wc['is_section_of_data']['name'];
-        } elseif (!empty($wc['nom'])) {
-            $listOfPublicWcs[$key]['name'] = $wc['nom']; // Fallback to 'nom' tag
-        } elseif (!empty($wc['seccio'])) {
-            $listOfPublicWcs[$key]['name'] = $wc['seccio']; // Fallback to 'seccio' tag
-        } else {
-            $listOfPublicWcs[$key]['name'] = 'Lavabo públic'; // Final fallback in case no name is found
-        }
-
-        // Extract and prioritize using googleMaps coordinates if available
-        $googleMaps = isset($wc['adreca_simple']['coordenades']['googleMaps']) ? $wc['adreca_simple']['coordenades']['googleMaps'] : null;
-        $coordinates = isset($wc['adreca_simple']['coordenades']['geocodificacio']) ? $wc['adreca_simple']['coordenades']['geocodificacio'] : null;
-
-        if (!empty($googleMaps) && isset($googleMaps['lat'], $googleMaps['lon'])) {
-            $listOfPublicWcs[$key]['lat'] = $googleMaps['lat'];
-            $listOfPublicWcs[$key]['lon'] = $googleMaps['lon'];
-        } elseif (!empty($coordinates) && isset($coordinates['x'], $coordinates['y'])) {
-            // Fallback to geocodificacio if googleMaps is not available
-            $listOfPublicWcs[$key]['lat'] = $coordinates['x'];
-            $listOfPublicWcs[$key]['lon'] = $coordinates['y'];
-        } else {
-            continue;
-        }
-
-        // Extract and Get the WC address
-        $addressSimple = isset($wc['adreca_simple']) ? $wc['adreca_simple'] : null;
-        if (!empty($addressSimple)) {
-            $streetName = isset($addressSimple['carrer']) ? $addressSimple['carrer'] : 'No s\'ha pogut trobar el carrer. ';
-            $streetNumber = isset($addressSimple['numero']) ? $addressSimple['numero'] : 'No s\'ha pogut trobar el número. ';
-            $zipCode = isset($addressSimple['codi_postal']) ? $addressSimple['codi_postal'] : 'No s\'ha pogut trobar el codi postal. ';
-
-            if (is_array($streetName) && isset($streetName['@'])) {
-                $streetName = $streetName['@'];
-            }
-            if (is_array($streetNumber) && isset($streetNumber['@'])) {
-                $streetNumber = $streetNumber['@'];
-            }
-            if (is_array($zipCode) && isset($zipCode['@'])) {
-                $zipCode = $zipCode['@'];
-            }
-
-            $listOfPublicWcs[$key]['address'] = $streetName . ' ' . $streetNumber . ' (' . $zipCode . ')';
-        } else {
-            $listOfPublicWcs[$key]['address'] = 'Adreça desconeguda';
-        }
-    }
-} else {
-    echo "No equipaments found in wc.json\n";
+if (empty($wcData)) {
+    echo "No entries found in wc.json\n";
     exit;
+}
+
+foreach ($wcData as $key => $wc) {
+    $name = isset($wc['name']) ? $wc['name'] : null;
+
+    // Get the WC name with multiple fallbacks
+    if ($name && str_starts_with($name, 'WC Públic *')) {
+        $listOfPublicWcs[$key]['name'] = substr($name, strlen('WC Públic *'));
+    } elseif (!empty($wc['is_section_of_data']['name'])) {
+        $listOfPublicWcs[$key]['name'] = $wc['is_section_of_data']['name'];
+    } elseif (!empty($wc['name'])) {
+        $listOfPublicWcs[$key]['name'] = $wc['name']; // Fallback to 'nom' tag
+    } elseif (!empty($wc['seccio'])) {
+        $listOfPublicWcs[$key]['name'] = $wc['seccio']; // Fallback to 'seccio' tag
+    } else {
+        $listOfPublicWcs[$key]['name'] = 'Lavabo públic'; // Final fallback in case no name is found
+    }
+
+    // Extract and prioritize using googleMaps coordinates if available
+    $coordinates = isset($wc['geo_epgs_4326_latlon']) ? $wc['geo_epgs_4326_latlon'] : null;
+
+    if (!empty($coordinates) && !isset($coordinates['lat'], $coordinates['lon'])) {
+        continue;
+    }
+
+    $listOfPublicWcs[$key]['lat'] = $coordinates['lat'];
+    $listOfPublicWcs[$key]['lon'] = $coordinates['lon'];
+
+    // Extract and Get the WC address
+    $addresses = isset($wc['addresses']) ? $wc['addresses'] : null;
+    $address = isset($addresses[0]) ? $addresses[0] : null;
+
+    if (!empty($address)) {
+        $streetName = isset($address['address_name']) ? $address['address_name'] : 'No s\'ha pogut trobar el carrer. ';
+
+        $startStreetNumber = isset($address['start_street_number']) ? $address['start_street_number'] : null;
+        $endStreetNumber = isset($address['end_street_number']) ? $address['end_street_number'] : null;
+
+        if ($startStreetNumber !== null && $endStreetNumber !== null && $startStreetNumber != $endStreetNumber) {
+            $streetNumber = $startStreetNumber . '-' . $endStreetNumber;
+        } elseif ($startStreetNumber !== null) {
+            $streetNumber = $startStreetNumber;
+        } elseif ($endStreetNumber !== null) {
+            $streetNumber = $endStreetNumber;
+        } else {
+            $streetNumber = 'No s\'ha pogut trobar el número. ';
+        }
+
+        $zipCode = isset($address['zip_code']) ? $address['zip_code'] : 'No s\'ha pogut trobar el codi postal. ';
+
+        $listOfPublicWcs[$key]['address'] = $streetName . ' ' . $streetNumber . ' (' . $zipCode . ')';
+    } else {
+        $listOfPublicWcs[$key]['address'] = 'Adreça desconeguda';
+    }
 }
 
 // Sort the list of WCs by address
