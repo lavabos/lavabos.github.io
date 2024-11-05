@@ -3,6 +3,7 @@ var wc_barcelona_data = [
         "name": "Parc de Can Rigal",
         "lat": 41.37932819241353,
         "lon": 2.1077390567867273,
+        "body": "Ubiaci\u00f3: dins de la guingueta-bar",
         "address": "Av Albert Bastardas 23 (08028)"
     },
     {
@@ -15,12 +16,14 @@ var wc_barcelona_data = [
         "name": "Parc de les Rieres d'Horta",
         "lat": 41.43107919974659,
         "lon": 2.154259435001784,
+        "body": "Ubicaci\u00f3: dins de la guingueta-bar",
         "address": "Av Estatut de Catalunya 21 (08035)"
     },
     {
         "name": "Parc de Carles I",
         "lat": 41.3889993175699,
         "lon": 2.193466781947299,
+        "body": "Ubicaci\u00f3: dins de la guingueta-bar",
         "address": "Av Ic\u00e0ria 121 (08005)"
     },
     {
@@ -57,6 +60,7 @@ var wc_barcelona_data = [
         "name": "Avinguda Drassanes \/ Cervell\u00f3",
         "lat": 41.37648362986496,
         "lon": 2.175084744969605,
+        "body": "Cab\u00edna qu\u00edmica",
         "address": "Avinguda de les Drassanes 6-8 (08001)"
     },
     {
@@ -69,12 +73,14 @@ var wc_barcelona_data = [
         "name": "Jardins de la Rambla de Sants",
         "lat": 41.37088899407408,
         "lon": 2.1312398669829165,
+        "body": "Ubicaci\u00f3: dins de la guingueta-bar.",
         "address": "C Antoni de Capmany 48 (08014)"
     },
     {
         "name": "Parc de Joan Mir\u00f3",
         "lat": 41.37736859072251,
         "lon": 2.1474560624682373,
+        "body": "Ubicaci\u00f3: dins de la guingueta-bar",
         "address": "C Arag\u00f3 2 (08015)"
     },
     {
@@ -111,6 +117,7 @@ var wc_barcelona_data = [
         "name": "Jardins de Can Sentmenat",
         "lat": 41.40262028359711,
         "lon": 2.115102292721839,
+        "body": "Ubicaci\u00f3: dins de la guingueta-bar",
         "address": "C Can Caralleu 6 (08017)"
     },
     {
@@ -249,12 +256,14 @@ var wc_barcelona_data = [
         "name": "Parc de l'Estaci\u00f3 del Nord",
         "lat": 41.39367157911195,
         "lon": 2.1839578397165673,
+        "body": "Ubiaci\u00f3: dins de la guingueta-bar",
         "address": "C N\u00e0pols 70 (08018)"
     },
     {
         "name": "Park G\u00fcell",
         "lat": 41.41350924872243,
         "lon": 2.1531271963876577,
+        "body": "Ubicaci\u00f3: dins de la guingueta-bar acc\u00e9s c. Olot",
         "address": "C Olot 7 (08024)"
     },
     {
@@ -567,6 +576,7 @@ var wc_barcelona_data = [
         "name": "Jardins del Mirador de l'Alcalde",
         "lat": 41.36736931595779,
         "lon": 2.1684915045199515,
+        "body": "Bar guingueta",
         "address": "Carretera de Montju\u00efc 41-51 (08038)"
     },
     {
@@ -585,12 +595,14 @@ var wc_barcelona_data = [
         "name": "Platja de Sant Miquel",
         "lat": 41.37703351684362,
         "lon": 2.190886198426739,
+        "body": "Passeig Mar\u00edtim de la Barceloneta amb c. dels Pescadors",
         "address": "Passeig Mar\u00edtim de la Barceloneta - Oriol Bohigas 10 (08003)"
     },
     {
         "name": "Platja de Sant Miquel",
         "lat": 41.37703351684362,
         "lon": 2.190886198426739,
+        "body": "Passeig Mar\u00edtim de la Barceloneta amb c. Guitert",
         "address": "Passeig Mar\u00edtim de la Barceloneta - Oriol Bohigas 10 (08003)"
     },
     {
@@ -603,6 +615,7 @@ var wc_barcelona_data = [
         "name": "Platja de la Barceloneta",
         "lat": 41.37858632708025,
         "lon": 2.192198017178552,
+        "body": "Passeig Mar\u00edtim de la Barceloneta (escales d\u2019acc\u00e9s a l\u2019Espig\u00f3 del Gas)",
         "address": "Passeig Mar\u00edtim de la Barceloneta - Oriol Bohigas 14 (08003)"
     },
     {
@@ -651,12 +664,14 @@ var wc_barcelona_data = [
         "name": "Platja de Sant Sebasti\u00e0",
         "lat": 41.36925319780068,
         "lon": 2.188873042250683,
+        "body": "Passeig del Mare Nostrum (carrer\u00f3 entre CNB i Club Athl\u00e8tic- Barceloneta)",
         "address": "Passeig del Mare Nostrum 0 (08039)"
     },
     {
         "name": "Parc del Laberint d'Horta",
         "lat": 41.438646634821914,
         "lon": 2.147583819495762,
+        "body": "Ubicat a la guingueta-bar situada davant l'acc\u00e9s del parc",
         "address": "Pg Castanyers 1 (08035)"
     },
     {
@@ -675,6 +690,7 @@ var wc_barcelona_data = [
         "name": "Parc de la Creueta del Coll",
         "lat": 41.4204635433122,
         "lon": 2.149081749832279,
+        "body": "Ubicaci\u00f3: dins de la guingueta-bar",
         "address": "Pg Mare de D\u00e9u del Coll 77 (08023)"
     },
     {
@@ -693,6 +709,7 @@ var wc_barcelona_data = [
         "name": "Parc de la Trinitat",
         "lat": 41.449268825219306,
         "lon": 2.1956548753915466,
+        "body": "Ubicaci\u00f3: dins de la guingueta-bar",
         "address": "Pg Santa Coloma 60 (08030)"
     },
     {
@@ -759,6 +776,7 @@ var wc_barcelona_data = [
         "name": "WC P\u00fablic* Pla\u00e7a Ferran Casablancas",
         "lat": 41.40125413149884,
         "lon": 2.13293300026361,
+        "body": "Ubicaci\u00f3: dins de la guingueta-bar acc\u00e9s c. Olot",
         "address": "Pl Ferran Casablancas 2 (08022)"
     },
     {
@@ -855,6 +873,7 @@ var wc_barcelona_data = [
         "name": "Placeta Vicen\u00e7 Albert Ballester",
         "lat": 41.38938431879235,
         "lon": 2.1815724844722175,
+        "body": "Cab\u00edna qu\u00edmica",
         "address": "Placeta de Vicen\u00e7 Albert Ballester 0 (08003)"
     },
     {
@@ -885,6 +904,7 @@ var wc_barcelona_data = [
         "name": "Parc de la Ciutadella",
         "lat": 41.38925647347039,
         "lon": 2.1862611264375853,
+        "body": "Ubicaci\u00f3: dins de la guingueta-bar de la Pl. de les Cascades",
         "address": "Pla\u00e7a de Sonia Rescalvo Zafra 0 (08003)"
     },
     {

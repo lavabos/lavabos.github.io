@@ -48,6 +48,11 @@ foreach ($wcData as $key => $wc) {
     $listOfPublicWcs[$key]['lat'] = $coordinates['lat'];
     $listOfPublicWcs[$key]['lon'] = $coordinates['lon'];
 
+    $body = isset($wc['body']) ? trim(strip_tags($wc['body'])) : null;
+    if (!empty($body)) {
+        $listOfPublicWcs[$key]['body'] = $body;
+    }
+
     // Extract and Get the WC address
     $addresses = isset($wc['addresses']) ? $wc['addresses'] : null;
     $address = isset($addresses[0]) ? $addresses[0] : null;

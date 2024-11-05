@@ -74,12 +74,18 @@
 
             for (let wc_index = 0; wc_index < wc_barcelona_data.length; wc_index++) {
                 const wc = wc_barcelona_data[wc_index];
+
+                let text = '<b>' + wc['name'] + '</b><br>' + wc['address'];
+                if (wc['body']) {
+                    text += '<br>' + wc['body'];
+                }
+
                 var marker = L
                     .marker([
                         wc['lat'], wc['lon']
                     ])
                     .addTo(bcnmap)
-                    .bindPopup('<b>' + wc['name'] + '</b><br />' + wc['address']);
+                    .bindPopup(text);
             }
         </script>
     </body>
