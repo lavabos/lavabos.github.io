@@ -36,6 +36,9 @@ var wc_barcelona_data = [
         "name": "Quiosc Bar Marcelino",
         "lat": 41.36886216674779,
         "lon": 2.161125332084185,
+        "warnings": [
+            "Horari estiu tots quioscos Montjuic. Correu Chelo Garcia Bravo"
+        ],
         "address": "Av Miramar 11 (08038)"
     },
     {
@@ -480,6 +483,9 @@ var wc_barcelona_data = [
         "name": " c. Atl\u00e0ntida",
         "lat": 41.377201977229504,
         "lon": 2.19077753486673,
+        "warnings": [
+            "A l'espera horaris \/ temporal\/ permanent\/"
+        ],
         "address": "Carrer de l'Atl\u00e0ntida 82 (08003)"
     },
     {
@@ -583,6 +589,9 @@ var wc_barcelona_data = [
         "name": "Jardins de Joan Brossa",
         "lat": 41.367843484632495,
         "lon": 2.168233734557581,
+        "warnings": [
+            "Temporalment fora de servei"
+        ],
         "address": "Ctra Montju\u00efc 28 (08038)"
     },
     {
@@ -652,6 +661,9 @@ var wc_barcelona_data = [
         "name": " Passeig Joan de Borb\u00f3",
         "lat": 41.3758272106509,
         "lon": 2.1892929799720795,
+        "warnings": [
+            "A l'espera horaris \/ temporal\/ permanent\/"
+        ],
         "address": "Passeig de Joan de Borb\u00f3 Comte de Barcelona 70-71 (08003)"
     },
     {
@@ -713,9 +725,12 @@ var wc_barcelona_data = [
         "address": "Pg Santa Coloma 60 (08030)"
     },
     {
-        "name": "Temporalment fora de servei",
+        "name": "Jardins Laribal",
         "lat": 41.36812384413011,
         "lon": 2.158482875531215,
+        "warnings": [
+            "Temporalment fora de servei"
+        ],
         "address": "Pg Santa Madrona 2 (08038)"
     },
     {
@@ -941,6 +956,9 @@ var wc_barcelona_data = [
         "name": "  Pla\u00e7a Poeta Bosc\u00e0",
         "lat": 41.38022014021097,
         "lon": 2.1892574754159586,
+        "warnings": [
+            "A l'espera horaris \/ temporal\/ permanent\/"
+        ],
         "address": "Pla\u00e7a del Poeta Bosc\u00e0 1 (08003)"
     },
     {

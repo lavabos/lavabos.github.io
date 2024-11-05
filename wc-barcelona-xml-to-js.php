@@ -26,10 +26,10 @@ foreach ($wcData as $key => $wc) {
     $name = isset($wc['name']) ? $wc['name'] : null;
 
     // Get the WC name with multiple fallbacks
-    if ($name && str_starts_with($name, 'WC Públic *')) {
-        $listOfPublicWcs[$key]['name'] = substr($name, strlen('WC Públic *'));
-    } elseif (!empty($wc['is_section_of_data']['name'])) {
+    if (!empty($wc['is_section_of_data']['name'])) {
         $listOfPublicWcs[$key]['name'] = $wc['is_section_of_data']['name'];
+    } elseif ($name && str_starts_with($name, 'WC Públic *')) {
+        $listOfPublicWcs[$key]['name'] = substr($name, strlen('WC Públic *'));
     } elseif (!empty($wc['name'])) {
         $listOfPublicWcs[$key]['name'] = $wc['name']; // Fallback to 'nom' tag
     } elseif (!empty($wc['seccio'])) {
@@ -51,6 +51,15 @@ foreach ($wcData as $key => $wc) {
     $body = isset($wc['body']) ? trim(strip_tags($wc['body'])) : null;
     if (!empty($body)) {
         $listOfPublicWcs[$key]['body'] = $body;
+    }
+
+    $warnings = isset($wc['warnings']) ? $wc['warnings'] : [];
+    foreach ($warnings as $warning) {
+        $warning = trim(strip_tags($warning['text']));
+
+        if (!empty($warning)) {
+            $listOfPublicWcs[$key]['warnings'][] = $warning;
+        }
     }
 
     // Extract and Get the WC address

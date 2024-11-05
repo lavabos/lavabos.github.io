@@ -9,13 +9,11 @@
         <title>WC Barcelona</title>
         <link
             rel="stylesheet"
-            href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-            integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-            crossorigin=""/>
+            href="leaflet.css"
+            integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="/>
         <script
-            src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-            integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-            crossorigin=""></script>
+            src="leaflet.js"
+            integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="></script>
 
         <style>
             body {
@@ -72,6 +70,28 @@
                 })
                 .addTo(bcnmap);
 
+            const blueIcon = L.icon({
+                iconUrl: "images/marker-icon.png",
+                iconRetinaUrl: "images/marker-icon-2x.png", 
+                shadowUrl: "images/marker-shadow.png",
+                iconSize: [25, 41], 
+                iconAnchor: [12, 41], 
+                popupAnchor: [1, -34], 
+                tooltipAnchor: [16, -28], 
+                shadowSize: [41, 41]
+            });
+
+            const redIcon = L.icon({
+                iconUrl: "images/marker-red.png",
+                iconRetinaUrl: "images/marker-red-2x.png", 
+                shadowUrl: "images/marker-shadow.png",
+                iconSize: [25, 41], 
+                iconAnchor: [12, 41], 
+                popupAnchor: [1, -34], 
+                tooltipAnchor: [16, -28], 
+                shadowSize: [41, 41]
+            });
+
             for (let wc_index = 0; wc_index < wc_barcelona_data.length; wc_index++) {
                 const wc = wc_barcelona_data[wc_index];
 
@@ -80,10 +100,22 @@
                     text += '<br>' + wc['body'];
                 }
 
+                let icon = blueIcon;
+
+                if (wc['warnings']) {
+                    text += '<br>Avisos:<br>';
+                    wc['warnings'].forEach(warning => {
+                        text += '&middot; ' + warning + '<br>';
+                    });
+
+                    icon = redIcon;
+                }
+
                 var marker = L
-                    .marker([
-                        wc['lat'], wc['lon']
-                    ])
+                    .marker(
+                        [wc['lat'], wc['lon']],
+                        {icon: icon}
+                    )
                     .addTo(bcnmap)
                     .bindPopup(text);
             }
